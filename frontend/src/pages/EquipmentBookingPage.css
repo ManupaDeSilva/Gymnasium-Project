@@ -1,0 +1,265 @@
+.bookimg02-icon,
+.bookimg03-icon {
+  position: absolute;
+  top: 333px;
+  left: 1023px;
+  width: 416px;
+  height: 444px;
+  object-fit: cover;
+}
+.bookimg02-icon {
+  top: 463px;
+  left: 1681px;
+  width: 117px;
+  height: 165px;
+}
+.bookimg01-icon {
+  position: absolute;
+  top: 433px;
+  left: 1261px;
+  width: 560px;
+  height: 449px;
+  object-fit: cover;
+}
+
+.footballimg {
+  position: absolute;
+  top: 940px;
+  left: 314px;
+  width: 238px;
+  height: 236px;
+  object-fit: cover;
+}
+
+.equipmentBookingTopic {
+  position: absolute;
+  top: 382px;
+  left: 122px;
+  font-size: var(--font-size-106xl);
+  display: inline-block;
+  font-family: var(--font-kufam);
+  color: var(--color-darkorchid);
+  width: 797px;
+  height: 347px;
+  text-shadow: 6px 6px 8px rgba(0, 0, 0, 0.25);
+}
+.bookPharse {
+  position: absolute;
+  top: 729px;
+  left: 134px;
+  font-size: var(--font-size-12xl);
+  font-family: var(--font-arial);
+  display: inline-block;
+  width: 773px;
+}
+
+.equipment-reservation {
+  position: relative;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.equipTopicBack {
+  position: absolute;
+  top: 969px;
+  left: 478px;
+  border-radius: var(--br-11xl);
+  background-color: rgba(217, 217, 217, 0.72);
+  width: 1057px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-25xl) 230px var(--padding-25xl) 242px;
+  box-sizing: border-box;
+  font-size: var(--font-size-26xl);
+  font-family: var(--font-aclonica);
+}
+.equipment-name,
+.payment-amount,
+.payment-description {
+  position: absolute;
+  top: 1349px;
+  left: 310px;
+  display: inline-block;
+  width: 504px;
+}
+.payment-amount,
+.payment-description {
+  top: 1640px;
+  width: 580px;
+}
+.payment-amount {
+  top: 1481px;
+  width: 262px;
+}
+
+.line01 {
+  position: absolute;
+  top: 1450.5px;
+  left: 309.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1394px;
+  height: 1px;
+}
+.line2,
+.line4,
+.line {
+  position: absolute;
+  top: 1746px;
+  left: 310px;
+  max-height: 100%;
+  width: 1393px;
+}
+.line2,
+.line4 {
+  top: 1805px;
+}
+.line2 {
+  top: 1601px;
+}
+
+
+
+.equipamountinput,
+.equipmentnameinput {
+  border: 0;
+  outline: 0;
+  display: inline-block;
+  font-family: var(--font-arial);
+  font-size: var(--font-size-3xl);
+  background-color: transparent;
+  position: absolute;
+  top: 1421px;
+  left: 310px;
+  font-style: italic;
+  color: var(--color-dimgray-300);
+  text-align: left;
+  width: 1000px;
+  height: 27px;
+}
+.equipamountinput {
+  top: 1573px;
+  width: 250px;
+  height: 25px;
+}
+
+.equipmentfrominput,
+.equipmenttoinput {
+  border: 0;
+  outline: 0;
+  display: inline-block;
+  font-family: var(--font-arial);
+  font-size: var(--font-size-xl);
+  background-color: transparent;
+  position: absolute;
+  top: 1932px;
+  font-style: italic;
+  color: var(--color-dimgray-400);
+  text-align: left;
+}
+
+.equipmentfrominput {
+  left: 470px;
+  white-space: pre-wrap;
+  width: 285px;
+}
+.equipmenttoinput {
+  left: 1115px;
+  width: 386px;
+}
+
+
+
+
+.equipfrom,
+.equipto {
+  position: absolute;
+  font-weight: 600;
+}
+.equipto {
+  top: 1855px;
+  left: 1087px;
+  display: inline-block;
+  width: 68px;
+}
+.equipfrom {
+  top: 1860px;
+  left: 462px;
+}
+.frombox,
+.tobox {
+  position: absolute;
+  top: 1924px;
+  height: 38px;
+}
+.frombox {
+  left: 462px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 300px;
+}
+.tobox {
+  left: 1087px;
+  width: 430px;
+}
+
+.all-set-one {
+  position: absolute;
+  top: 2056px;
+  left: calc(50% - 241.5px);
+  font-family: var(--font-inter);
+}
+.equippaymentdescriptionline1,
+.equippaymentdescriptionline2 {
+  border: 0;
+  outline: 0;
+  display: inline-block;
+  font-family: var(--font-arial);
+  font-size: var(--font-size-3xl);
+  background-color: transparent;
+  position: absolute;
+  font-style: italic;
+  color: var(--color-gray-500);
+  text-align: left;
+  width: 702px;
+  height: 36px;
+}
+.equippaymentdescriptionline1 {
+  top: 1712px;
+  left: 310px;
+}
+.equippaymentdescriptionline2 {
+  top: 1769px;
+  left: 310px;
+}
+
+
+.bookingbutton{
+  position: absolute;
+  top: 2150px;
+  left: 754px;
+
+}
+
+.please-check-the {
+  position: absolute;
+  top: 1276px;
+  left: 310px;
+  font-family: var(--font-aref-ruqaa);
+}
+
+
+
+.equipmentbookingpage {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 2856px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  font-family: var(--font-inknut-antiqua);
+}

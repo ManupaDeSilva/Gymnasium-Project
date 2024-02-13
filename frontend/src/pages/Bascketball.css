@@ -1,0 +1,317 @@
+.locker03back-icon {
+  position: absolute;
+  top: 259px;
+  left: 0;
+  width: 1918px;
+  height: 880px;
+  object-fit: cover;
+}
+.bascketball1 {
+  position: relative;
+  font-weight: 900;
+  text-shadow: 4px 0 0#000, 0 4px 0#000, -4px 0 0#000, 0-4px 0#000;
+}
+.bascketballtopic {
+  position: absolute;
+  top: 322px;
+  left: 742px;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-dimgray-600);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-6xl) 0;
+  font-size: var(--font-size-46xl);
+  color: var(--color-white);
+}
+.court,
+.equipments1,
+.locker-03 {
+  position: absolute;
+  font-weight: 900;
+}
+.locker-03 {
+  top: 274px;
+  left: 23px;
+  font-size: var(--font-size-26xl);
+  color: var(--color-white);
+  text-shadow: 2px 0 0#000, 0 2px 0#000, -2px 0 0#000, 0-2px 0#000;
+}
+.court,
+.equipments1 {
+  top: 455px;
+  left: 297px;
+  font-size: var(--font-size-31xl);
+}
+.court {
+  left: 1468px;
+  color: var(--color-white);
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.available-number-of,
+.today-available-times {
+  position: absolute;
+  top: 547px;
+  left: 228px;
+  font-size: var(--font-size-16xl);
+  font-weight: 900;
+}
+.today-available-times {
+  top: 550px;
+  left: 1382px;
+  color: var(--color-white);
+  text-shadow: 4px 4px 5px rgba(0, 0, 0, 0.64);
+}
+.div {
+  position: relative;
+  font-weight: 900;
+}
+.bacsketballsavailable,
+.courttimeslots,
+.courttimeslots1 {
+  position: absolute;
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.bacsketballsavailable {
+  top: 620px;
+  left: 362px;
+  background-color: #fffbfb;
+  width: 92px;
+  height: 79px;
+  flex-direction: column;
+  padding: var(--padding-3xs) var(--padding-xs) var(--padding-6xs);
+  font-size: var(--font-size-26xl);
+}
+.courttimeslots,
+.courttimeslots1 {
+  top: 630px;
+  left: 1280px;
+  background-color: var(--color-gray-400);
+  width: 559px;
+  height: 380px;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+}
+.courttimeslots1 {
+  top: 738px;
+  left: 128px;
+  height: 296px;
+}
+.what-to-expect {
+  margin: 0;
+}
+.what-to-expect-container {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.bascketballdiscription1 {
+  position: absolute;
+  top: 2556px;
+  left: calc(50% - 767.5px);
+  width: 1537px;
+  height: 704px;
+  text-align: justify;
+  font-family: var(--font-inter);
+}
+.bascketballdiscription11 {
+  position: absolute;
+  top: 1296px;
+  left: calc(50% - 821.5px);
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  font-family: var(--font-inria-serif);
+  text-align: center;
+  width: 1582px;
+  height: 150px;
+}
+.schedule1 {
+  position: relative;
+}
+.dates,
+.times {
+  position: absolute;
+  top: 22px;
+  left: 152px;
+}
+.times {
+  left: 613px;
+}
+.border-icon,
+.event-description {
+  position: absolute;
+  top: 22px;
+  left: 1095px;
+}
+.border-icon {
+  left: 428px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 638px;
+}
+.border-icon1,
+.border-icon2,
+.border-icon3 {
+  position: absolute;
+  top: 102px;
+  left: 22px;
+  max-height: 100%;
+  width: 387.5px;
+}
+.border-icon2,
+.border-icon3 {
+  left: 460px;
+}
+.border-icon3 {
+  left: 958px;
+  width: 551px;
+}
+.border-icon4 {
+  position: absolute;
+  top: 22px;
+  left: 918.9px;
+  width: 2.1px;
+  height: 638px;
+  object-fit: contain;
+}
+.am-4oo,
+.am-4oo1,
+.monday,
+.tuesday {
+  position: absolute;
+  top: 179px;
+  left: 127px;
+  display: inline-block;
+  width: 177px;
+  height: 53px;
+}
+.am-4oo,
+.am-4oo1,
+.tuesday {
+  left: 501px;
+  width: 371px;
+}
+.am-4oo1,
+.tuesday {
+  top: 288px;
+}
+.tuesday {
+  left: 127px;
+  width: 177px;
+}
+.practices,
+.practices1 {
+  position: absolute;
+  top: 179px;
+  left: 1149px;
+}
+.practices1 {
+  top: 288px;
+}
+.updatebutton {
+  cursor: pointer;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-inika);
+  font-size: var(--font-size-xl);
+  background-color: var(--color-darkgray-100);
+  border-radius: var(--br-11xl);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-lg);
+  color: var(--color-black);
+}
+.dateinput1,
+.timeinput {
+  position: absolute;
+  top: 557px;
+  background-color: var(--color-gainsboro-100);
+  height: 92px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.dateinput1 {
+  left: 46px;
+  width: 343px;
+  overflow: hidden;
+  padding: var(--padding-mid) var(--padding-13xl) var(--padding-mid)
+    var(--padding-193xl);
+  box-sizing: border-box;
+}
+.timeinput {
+  left: 501px;
+  width: 371px;
+  padding: var(--padding-mid) var(--padding-13xl) var(--padding-mid)
+    var(--padding-210xl);
+}
+.dateinput2,
+.scheduletable,
+.timeinput {
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.dateinput2 {
+  position: absolute;
+  top: 557px;
+  left: 982px;
+  background-color: var(--color-gainsboro-100);
+  width: 496px;
+  height: 92px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mid) var(--padding-13xl) var(--padding-mid)
+    var(--padding-320xl);
+}
+.scheduletable {
+  width: 1550px;
+  position: relative;
+  border: 1px solid var(--color-black);
+  height: 689px;
+  flex-shrink: 0;
+  font-size: var(--font-size-22xl);
+}
+.sheduletable {
+  position: absolute;
+  top: 1580px;
+  left: 184px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-60xl);
+  font-size: var(--font-size-51xl);
+  font-family: var(--font-inika);
+}
+.bascketball {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 3800px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  font-family: var(--font-arima-madurai);
+}
+.bookingbutton1{
+  position: absolute;
+  top: 1057;
+  left: 754px;
+  
+
+}

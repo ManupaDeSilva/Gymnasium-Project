@@ -1,0 +1,307 @@
+.locker15back-icon {
+  position: absolute;
+  top: 260px;
+  left: 0;
+  width: 1917px;
+  height: 879px;
+  object-fit: cover;
+}
+.rugby5 {
+  position: relative;
+  font-weight: 900;
+  text-shadow: 4px 0 0#000, 0 4px 0#000, -4px 0 0#000, 0-4px 0#000;
+}
+.rugbytopic {
+  position: absolute;
+  top: 322px;
+  left: calc(50% - 127.5px);
+  border-radius: var(--br-lgi);
+  background-color: var(--color-dimgray-600);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-6xl) 0;
+  font-size: var(--font-size-46xl);
+}
+.court12,
+.equipments13,
+.locker-15 {
+  position: absolute;
+  top: 274px;
+  left: 23px;
+  font-size: var(--font-size-26xl);
+  font-weight: 900;
+  text-shadow: 2px 0 0#000, 0 2px 0#000, -2px 0 0#000, 0-2px 0#000;
+}
+.court12,
+.equipments13 {
+  top: 453px;
+  left: 384px;
+  font-size: var(--font-size-31xl);
+}
+.court12 {
+  top: 455px;
+  left: 1328px;
+}
+.available-number-of18,
+.today-available-times12 {
+  position: absolute;
+  top: 552px;
+  left: 313px;
+  font-size: var(--font-size-16xl);
+  font-weight: 900;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.today-available-times12 {
+  left: 1243px;
+}
+.div18 {
+  position: relative;
+  font-weight: 900;
+}
+.bacsketballsavailable18,
+.courttimeslots24,
+.courttimeslots25 {
+  position: absolute;
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.bacsketballsavailable18 {
+  top: 626px;
+  left: 462px;
+  background-color: var(--color-white);
+  width: 92px;
+  height: 79px;
+  flex-direction: column;
+  padding: var(--padding-3xs) var(--padding-xs) var(--padding-6xs);
+  font-size: var(--font-size-26xl);
+  color: var(--color-black);
+}
+.courttimeslots24,
+.courttimeslots25 {
+  top: 648px;
+  left: 1143px;
+  background-color: var(--color-gray-400);
+  width: 559px;
+  height: 380px;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+}
+.courttimeslots25 {
+  top: 758px;
+  left: 232px;
+  height: 327px;
+}
+.rugbydiscription1 {
+  position: absolute;
+  top: 1310px;
+  left: calc(50% - 765.5px);
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  font-family: var(--font-inria-serif);
+  color: var(--color-black);
+  text-align: center;
+  width: 1582px;
+  height: 150px;
+}
+.what-to-expect12 {
+  margin: 0;
+}
+.rugbydiscription2 {
+  position: absolute;
+  top: 2556px;
+  left: calc(50% - 714.5px);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: justify;
+  display: inline-block;
+  width: 1537px;
+  height: 729px;
+}
+.schedule13 {
+  position: relative;
+}
+.dates12,
+.times12 {
+  position: absolute;
+  top: 22px;
+  left: 152px;
+}
+.times12 {
+  left: 613px;
+}
+.border-icon60,
+.event-description12 {
+  position: absolute;
+  top: 22px;
+  left: 1095px;
+}
+.border-icon60 {
+  left: 428px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 638px;
+}
+.border-icon61,
+.border-icon62,
+.border-icon63 {
+  position: absolute;
+  top: 102px;
+  left: 22px;
+  max-height: 100%;
+  width: 387.5px;
+}
+.border-icon62,
+.border-icon63 {
+  left: 460px;
+}
+.border-icon63 {
+  left: 958px;
+  width: 551px;
+}
+.border-icon64 {
+  position: absolute;
+  top: 22px;
+  left: 918.9px;
+  width: 2.1px;
+  height: 638px;
+  object-fit: contain;
+}
+.am-4oo24,
+.am-4oo25,
+.monday12,
+.tuesday12 {
+  position: absolute;
+  top: 179px;
+  left: 127px;
+  display: inline-block;
+  width: 177px;
+  height: 53px;
+}
+.am-4oo24,
+.am-4oo25,
+.tuesday12 {
+  left: 501px;
+  width: 371px;
+}
+.am-4oo25,
+.tuesday12 {
+  top: 288px;
+}
+.tuesday12 {
+  left: 127px;
+  width: 177px;
+}
+.practices24,
+.practices25 {
+  position: absolute;
+  top: 179px;
+  left: 1149px;
+}
+.practices25 {
+  top: 288px;
+}
+.updatebutton {
+  cursor: pointer;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-inika);
+  font-size: var(--font-size-xl);
+  background-color: var(--color-darkgray-100);
+  border-radius: var(--br-11xl);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-lg);
+  color: var(--color-black);
+}
+.dateinput25,
+.timeinput12 {
+  position: absolute;
+  top: 557px;
+  background-color: var(--color-gainsboro-100);
+  height: 92px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.dateinput25 {
+  left: 46px;
+  width: 343px;
+  overflow: hidden;
+  padding: var(--padding-mid) var(--padding-13xl) var(--padding-mid)
+    var(--padding-193xl);
+  box-sizing: border-box;
+}
+.timeinput12 {
+  left: 501px;
+  width: 371px;
+  padding: var(--padding-mid) var(--padding-13xl) var(--padding-mid)
+    var(--padding-210xl);
+}
+.dateinput26,
+.scheduletable12,
+.timeinput12 {
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.dateinput26 {
+  position: absolute;
+  top: 557px;
+  left: 982px;
+  background-color: var(--color-gainsboro-100);
+  width: 496px;
+  height: 92px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mid) var(--padding-13xl) var(--padding-mid)
+    var(--padding-320xl);
+}
+.scheduletable12 {
+  width: 1550px;
+  position: relative;
+  border: 1px solid var(--color-black);
+  height: 689px;
+  flex-shrink: 0;
+  font-size: var(--font-size-22xl);
+}
+.sheduletable12 {
+  position: absolute;
+  top: 1580px;
+  left: 184px;
+  width: 1547px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-60xl);
+  font-size: var(--font-size-51xl);
+  color: var(--color-black);
+  font-family: var(--font-inika);
+}
+.rugby4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 3800px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  font-family: var(--font-arima-madurai);
+}
+.bookingbutton1{
+  position: absolute;
+  left: 754px;
+  top: 1118px;
+
+}

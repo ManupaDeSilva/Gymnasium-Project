@@ -1,0 +1,530 @@
+.indoorfacilityimg-icon {
+  position: absolute;
+  top: 265px;
+  left: 0;
+  width: 1917px;
+  height: 381px;
+  object-fit: cover;
+}
+.indoor-facilities1 {
+  position: relative;
+  text-shadow: 4px 0 0#000, 0 4px 0#000, -4px 0 0#000, 0-4px 0#000;
+}
+.indoortopic01 {
+  position: absolute;
+  top: 371px;
+  left: calc(50% - 364.5px);
+  border-radius: var(--br-2xl);
+  background-color: rgba(255, 255, 255, 0.13);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) 23px 0;
+  text-align: left;
+  font-size: 80px;
+  color: var(--color-white);
+}
+.indoorpagediscription,
+.indoortopic02 {
+  position: absolute;
+  font-family: var(--font-arimo);
+}
+.indoortopic02 {
+  top: 508px;
+  left: calc(50% - 204.5px);
+  font-size: var(--font-size-13xl);
+  text-align: left;
+}
+.indoorpagediscription {
+  top: 696px;
+  left: calc(50% - 825.5px);
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 1652px;
+  height: 130px;
+}
+.check-or-book1 {
+  position: absolute;
+  top: 11145px;
+  left: 89px;
+  font-size: var(--font-size-15xl);
+  text-align: left;
+}
+.chesscaromrooms1 {
+  position: absolute;
+  top: 69px;
+  left: 1013px;
+}
+.chesscaromroomsimg-icon {
+  position: absolute;
+  top: 83px;
+  left: 57px;
+  border-radius: var(--br-22xl);
+  width: 728px;
+  height: 564px;
+  object-fit: cover;
+}
+.chesscaromrooms {
+  position: absolute;
+  top: 10292px;
+  left: calc(50% - 869.5px);
+  border-radius: var(--br-11xl);
+  background: linear-gradient(180deg, #fff 29.8%, rgba(255, 255, 255, 0));
+  box-shadow: 0 4px 36px 24px rgba(0, 0, 0, 0.25);
+  width: 1739px;
+  height: 740px;
+  overflow: hidden;
+}
+.trampoline1 {
+  position: absolute;
+  top: 69px;
+  left: 1136px;
+}
+.trampoline {
+  position: absolute;
+  top: 9468px;
+  left: calc(50% - 869.5px);
+  border-radius: var(--br-11xl);
+  background: linear-gradient(180deg, #fff 29.8%, rgba(255, 255, 255, 0));
+  box-shadow: 0 4px 36px 24px rgba(0, 0, 0, 0.25);
+  width: 1739px;
+  height: 740px;
+  overflow: hidden;
+}
+.fitnesscentre1 {
+  position: absolute;
+  top: 69px;
+  left: 835px;
+  display: inline-block;
+  width: 863px;
+  height: 163px;
+}
+.fitnesscentre {
+  position: absolute;
+  top: 8644px;
+  left: calc(50% - 869.5px);
+  border-radius: var(--br-11xl);
+  background: linear-gradient(180deg, #fff 29.8%, rgba(255, 255, 255, 0));
+  box-shadow: 0 4px 36px 24px rgba(0, 0, 0, 0.25);
+  width: 1739px;
+  height: 740px;
+  overflow: hidden;
+}
+.wrestlingarea1 {
+  position: absolute;
+  top: 69px;
+  left: 1098px;
+}
+.wrestlingarea {
+  position: absolute;
+  top: 7820px;
+  left: calc(50% - 869.5px);
+  border-radius: var(--br-11xl);
+  background: linear-gradient(180deg, #fff 29.8%, rgba(255, 255, 255, 0));
+  box-shadow: 0 4px 36px 24px rgba(0, 0, 0, 0.25);
+  width: 1739px;
+  height: 740px;
+  overflow: hidden;
+}
+.taekwondoarea1 {
+  position: absolute;
+  top: 69px;
+  left: 1077px;
+}
+.taekwondoarea {
+  position: absolute;
+  top: 6996px;
+  left: calc(50% - 869.5px);
+  border-radius: var(--br-11xl);
+  background: linear-gradient(180deg, #fff 29.8%, rgba(255, 255, 255, 0));
+  box-shadow: 0 4px 36px 24px rgba(0, 0, 0, 0.25);
+  width: 1739px;
+  height: 740px;
+  overflow: hidden;
+}
+.climbingboard1 {
+  position: absolute;
+  top: 69px;
+  left: 1093px;
+}
+.climbingboardimg-icon {
+  position: absolute;
+  top: 123px;
+  left: 77px;
+  border-radius: var(--br-22xl);
+  width: 688px;
+  height: 533px;
+  object-fit: cover;
+}
+.climbingboard {
+  position: absolute;
+  top: 6172px;
+  left: calc(50% - 859.5px);
+  border-radius: var(--br-11xl);
+  background: linear-gradient(180deg, #fff 29.8%, rgba(255, 255, 255, 0));
+  box-shadow: 0 4px 36px 24px rgba(0, 0, 0, 0.25);
+  width: 1739px;
+  height: 740px;
+  overflow: hidden;
+}
+.tabletenniscourt1 {
+  position: absolute;
+  top: 69px;
+  left: 1050px;
+}
+.tabletennisdiscription {
+  position: absolute;
+  top: 225px;
+  left: 889px;
+  font-size: var(--font-size-6xl);
+  text-align: justify;
+  display: inline-block;
+  width: 755px;
+  height: 280px;
+}
+.tabletenniscourt {
+  position: absolute;
+  top: 5348px;
+  left: calc(50% - 859.5px);
+  border-radius: var(--br-11xl);
+  background: linear-gradient(180deg, #fff 29.8%, rgba(255, 255, 255, 0));
+  box-shadow: 0 4px 36px 24px rgba(0, 0, 0, 0.25);
+  width: 1739px;
+  height: 740px;
+  overflow: hidden;
+}
+.netballcourt1 {
+  position: absolute;
+  top: 69px;
+  left: 1116px;
+}
+.netballdiscription {
+  position: absolute;
+  top: 197px;
+  left: 888px;
+  font-size: var(--font-size-6xl);
+  text-align: justify;
+  display: inline-block;
+  width: 755px;
+  height: 280px;
+}
+.netballcourt {
+  position: absolute;
+  top: 4524px;
+  left: calc(50% - 859.5px);
+  border-radius: var(--br-11xl);
+  background: linear-gradient(180deg, #fff 29.8%, rgba(255, 255, 255, 0));
+  box-shadow: 0 4px 36px 24px rgba(0, 0, 0, 0.25);
+  width: 1739px;
+  height: 740px;
+  overflow: hidden;
+}
+.volleyballcourt1,
+.volleyballdiscription {
+  position: absolute;
+  top: 69px;
+  left: 835px;
+  display: inline-block;
+  width: 863px;
+}
+.volleyballdiscription {
+  top: 240px;
+  left: 899px;
+  font-size: var(--font-size-6xl);
+  text-align: justify;
+  width: 736px;
+  height: 223px;
+}
+.volleyballcourt {
+  position: absolute;
+  top: 3700px;
+  left: calc(50% - 859.5px);
+  border-radius: var(--br-11xl);
+  background: linear-gradient(180deg, #fff 29.8%, rgba(255, 255, 255, 0));
+  box-shadow: 0 4px 36px 24px rgba(0, 0, 0, 0.25);
+  width: 1739px;
+  height: 740px;
+  overflow: hidden;
+}
+.bascketballcourt1 {
+  position: absolute;
+  top: 69px;
+  left: 1067px;
+}
+.bascketballdiscription {
+  position: absolute;
+  top: 219px;
+  left: 924px;
+  font-size: var(--font-size-6xl);
+  text-align: justify;
+  display: inline-block;
+  width: 736px;
+  height: 223px;
+}
+.bascketballcourt {
+  position: absolute;
+  top: 2876px;
+  left: calc(50% - 859.5px);
+  border-radius: var(--br-11xl);
+  background: linear-gradient(180deg, #fff 29.8%, rgba(255, 255, 255, 0));
+  box-shadow: 0 4px 36px 24px rgba(0, 0, 0, 0.25);
+  width: 1739px;
+  height: 740px;
+  overflow: hidden;
+}
+.badmintoncourt1 {
+  
+  position: absolute;
+  top: 69px;
+  left: 1062px;
+}
+.there-are-08 {
+  margin-block-start: 0;
+  margin-block-end: 2.73px;
+}
+.badmintondiscription {
+  position: absolute;
+  top: 220px;
+  left: 922px;
+  font-size: var(--font-size-6xl);
+  font-weight: 500;
+  text-align: justify;
+  display: inline-block;
+  width: 651px;
+  height: 213px;
+}
+.badmintoncourt {
+  position: absolute;
+  top: 2052px;
+  left: calc(50% - 860.5px);
+  border-radius: var(--br-11xl);
+  background: linear-gradient(180deg, #fff 29.8%, rgba(255, 255, 255, 0));
+  box-shadow: 0 4px 36px 24px rgba(0, 0, 0, 0.25);
+  width: 1739px;
+  height: 740px;
+  overflow: hidden;
+}
+.gymnasium-possesses {
+  position: absolute;
+  top: 26px;
+  left: calc(50% - 233px);
+  font-size: 44px;
+  text-align: center;
+}
+.line-icon6 {
+  position: absolute;
+  top: 124px;
+  left: calc(50% - 764px);
+  max-height: 100%;
+  width: 1528px;
+}
+.badminton-courts,
+.basketball-court2 {
+  cursor: pointer;
+  position: absolute;
+  top: 252px;
+  left: 212px;
+}
+.basketball-court2 {
+  
+  top: 363px;
+}
+.netball-court,
+.volleyball-courts1 {
+  cursor: pointer;
+  position: absolute;
+  top: 363px;
+  left: 863px;
+}
+.volleyball-courts1 {
+ 
+  top: 252px;
+}
+.table-tennis-tables {
+  cursor: pointer;
+  position: absolute;
+  top: 474px;
+  left: 212px;
+}
+.taekwondo-area,
+.wrestling-area {
+  cursor: pointer;
+  position: absolute;
+  top: 696px;
+  left: 863px;
+}
+.wrestling-area {
+  left: 212px;
+}
+.chess-carom,
+.climbing-board {
+  cursor: pointer;
+  position: absolute;
+  top: 585px;
+  left: 212px;
+}
+.climbing-board {
+  top: 470px;
+  left: 863px;
+}
+.specialist-fitness-centre,
+.trampoline2 {
+  cursor: pointer;
+  position: absolute;
+  top: 809px;
+  left: 212px;
+}
+.trampoline2 {
+  top: 585px;
+  left: 863px;
+}
+.dot-icon,
+.dot-icon1 {
+  height: 2%;
+  width: 1.23%;
+  top: 28.07%;
+  bottom: 69.93%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.dot-icon {
+  position: absolute;
+  right: 88.39%;
+  left: 10.38%;
+  overflow: hidden;
+}
+.dot-icon1 {
+  right: 48.28%;
+  left: 50.49%;
+}
+.dot-icon1,
+.dot-icon2,
+.dot-icon3 {
+  position: absolute;
+  overflow: hidden;
+}
+.dot-icon2 {
+  height: 2%;
+  width: 1.23%;
+  top: 38.96%;
+  right: 48.28%;
+  bottom: 59.04%;
+  left: 50.49%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.dot-icon3 {
+  top: 49.75%;
+  bottom: 48.25%;
+}
+.dot-icon3,
+.dot-icon4,
+.dot-icon5 {
+  height: 2%;
+  width: 1.23%;
+  right: 48.28%;
+  left: 50.49%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.dot-icon4 {
+  position: absolute;
+  top: 61.14%;
+  bottom: 36.86%;
+  overflow: hidden;
+}
+.dot-icon5 {
+  top: 72.63%;
+  bottom: 25.37%;
+}
+.dot-icon5,
+.dot-icon6,
+.dot-icon7 {
+  position: absolute;
+  overflow: hidden;
+}
+.dot-icon6 {
+  height: 2%;
+  width: 1.23%;
+  top: 39.06%;
+  right: 88.39%;
+  bottom: 58.94%;
+  left: 10.38%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.dot-icon7 {
+  top: 50.25%;
+  bottom: 47.75%;
+}
+.dot-icon7,
+.dot-icon8,
+.dot-icon9 {
+  height: 2%;
+  width: 1.23%;
+  right: 88.39%;
+  left: 10.38%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.dot-icon8 {
+  position: absolute;
+  top: 61.34%;
+  bottom: 36.66%;
+  overflow: hidden;
+}
+.dot-icon9 {
+  top: 72.23%;
+  bottom: 25.77%;
+}
+.dot-icon10,
+.dot-icon9,
+.posseses {
+  position: absolute;
+  overflow: hidden;
+}
+.dot-icon10 {
+  height: 2%;
+  width: 1.23%;
+  top: 83.62%;
+  right: 88.39%;
+  bottom: 14.39%;
+  left: 10.38%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.posseses {
+  top: 876px;
+  left: calc(50% - 813.5px);
+  border-radius: 31px;
+  background: linear-gradient(98.74deg, #79a4e6, rgba(148, 175, 216, 0.57));
+  width: 1628px;
+  height: 1001px;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-aref-ruqaa-ink);
+}
+
+.bookingbutton4{
+
+  position: relative;
+  top: 580px;
+  left: 1450px;
+  display: flex;
+  cursor: pointer;
+}
+
+
+
+.indoorfacilities {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 11787px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-31xl);
+  color: var(--color-black);
+  font-family: var(--font-arima-madurai);
+}

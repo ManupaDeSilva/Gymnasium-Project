@@ -1,0 +1,234 @@
+.bookimg02-icon1,
+.bookimg03-icon1 {
+  position: absolute;
+  top: 333px;
+  left: 1023px;
+  width: 416px;
+  height: 444px;
+  object-fit: cover;
+}
+.bookimg02-icon1 {
+  top: 463px;
+  left: 1681px;
+  width: 117px;
+  height: 165px;
+}
+.facilities-booking {
+  position: absolute;
+  top: 407px;
+  left: 155px;
+  font-size: var(--font-size-106xl);
+  display: inline-block;
+  font-family: var(--font-kufam);
+  color: var(--color-darkorchid);
+  width: 797px;
+  height: 347px;
+  text-shadow: 6px 6px 8px rgba(0, 0, 0, 0.25);
+}
+.bookPharse1 {
+  position: absolute;
+  top: 777px;
+  left: 164px;
+  font-size: var(--font-size-12xl);
+  font-family: var(--font-arial);
+  display: inline-block;
+  width: 773px;
+}
+.bookimg01-icon1 {
+  position: absolute;
+  top: 433px;
+  left: 1261px;
+  width: 560px;
+  height: 449px;
+  object-fit: cover;
+}
+.facilities-reservation {
+  position: relative;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.facilitytopic {
+  position: absolute;
+  top: 987px;
+  left: calc(50% - 498.5px);
+  border-radius: 0 var(--br-11xl) var(--br-11xl) 0;
+  background-color: var(--color-gainsboro-100);
+  width: 1125px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-25xl) 223px var(--padding-25xl) 290px;
+  box-sizing: border-box;
+  font-size: var(--font-size-27xl);
+  font-family: var(--font-aclonica);
+}
+.facility-name,
+.payment-amount1,
+.payment-description1 {
+  position: absolute;
+  top: 1382px;
+  left: 262px;
+  display: inline-block;
+  width: 266px;
+}
+.payment-amount1,
+.payment-description1 {
+  top: 1522px;
+  width: 262px;
+}
+.payment-description1 {
+  top: 1671px;
+  width: 306px;
+}
+.facilitybookingpage-child,
+.facilitybookingpage-inner,
+.facilitybookingpage-item,
+.line-div {
+  position: absolute;
+  top: 1481.5px;
+  left: 261.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1394px;
+  height: 1px;
+}
+.facilitybookingpage-inner,
+.facilitybookingpage-item,
+.line-div {
+  top: 1624.5px;
+}
+.facilitybookingpage-inner,
+.line-div {
+  top: 1794.5px;
+}
+.line-div {
+  top: 1869.5px;
+}
+.please-check-the1 {
+  position: absolute;
+  top: 1302px;
+  left: 262px;
+  font-family: var(--font-aref-ruqaa);
+}
+.enterfacilitynameinput,
+.facilityamountinput {
+  border: 0;
+  outline: 0;
+  display: inline-block;
+  font-family: var(--font-arial);
+  font-size: var(--font-size-3xl);
+  background-color: transparent;
+  position: absolute;
+  top: 1455px;
+  left: 264px;
+  font-style: italic;
+  color: var(--color-dimgray-300);
+  text-align: left;
+  width: 733px;
+  height: 27px;
+}
+.facilityamountinput {
+  top: 1600px;
+  left: 262px;
+  width: 266px;
+  height: 25px;
+}
+.facilityfrom,
+.facilityto {
+  position: absolute;
+  top: 1929px;
+  left: 1039px;
+  font-weight: 600;
+}
+.facilityfrom {
+  top: 1928px;
+  left: 470px;
+}
+.facilitybookingpage-child1,
+.rectangle-div {
+  position: absolute;
+  top: 1998px;
+  left: 470px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 307px;
+  height: 38px;
+}
+.facilitybookingpage-child1 {
+  left: 1039px;
+  width: 313px;
+}
+.facilityfrominput,
+.facilitytoinput {
+  border: 0;
+  outline: 0;
+  display: inline-block;
+  font-family: var(--font-arial);
+  font-size: var(--font-size-xl);
+  background-color: transparent;
+  position: absolute;
+  top: 2006px;
+  left: 478px;
+  font-style: italic;
+  color: var(--color-dimgray-400);
+  text-align: left;
+  width: 299px;
+}
+.facilitytoinput {
+  left: 1054px;
+  width: 298px;
+}
+.facilityimg-icon {
+  position: absolute;
+  top: 872px;
+  left: 224px;
+  width: 378.4px;
+  height: 334.8px;
+  object-fit: contain;
+}
+.all-set-one1 {
+  position: absolute;
+  top: 2156px;
+  left: calc(50% - 220.5px);
+  font-family: var(--font-inter);
+}
+.facilitypaymentdescriptionline,
+.facilitypaymentdescriptionline1 {
+  border: 0;
+  outline: 0;
+  display: inline-block;
+  font-family: var(--font-arial);
+  font-size: var(--font-size-3xl);
+  background-color: transparent;
+  position: absolute;
+  top: 1759px;
+  left: 264px;
+  font-style: italic;
+  color: var(--color-gray-500);
+  text-align: left;
+  width: 702px;
+  height: 36px;
+}
+.facilitypaymentdescriptionline1 {
+  top: 1834px;
+  left: 262px;
+}
+.facilitybookingpage {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 2856px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  font-family: var(--font-inknut-antiqua);
+}
+.bookingbutton{
+  position: absolute;
+  top: 2222px;
+  left: 754px;
+
+}

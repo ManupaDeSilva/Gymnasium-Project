@@ -1,0 +1,318 @@
+.discription {
+  width: 1667px;
+  position: relative;
+  display: inline-block;
+  height: 184px;
+  flex-shrink: 0;
+}
+.middle2 {
+  position: absolute;
+  top: 756px;
+  left: calc(50% - 822.4px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-inria-serif);
+}
+.homepageslider-icon {
+  position: absolute;
+  top: 260px;
+  left: 0;
+  width: 1917px;
+  height: 445px;
+  object-fit: cover;
+}
+.services-provides {
+  position: relative;
+  font-weight: 500;
+}
+.servicesprovides {
+  position: absolute;
+  top: 1492px;
+  left: 713px;
+  border-radius: 80px;
+  border: 4px solid var(--color-black);
+  box-sizing: border-box;
+  width: 482px;
+  height: 90px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xl) 54px;
+  text-align: left;
+  font-size: 36px;
+}
+.line-icon,
+.line-icon1 {
+  position: absolute;
+  top: 1537.5px;
+  left: -6px;
+  max-height: 100%;
+  width: 719.5px;
+}
+.line-icon1 {
+  top: 1537px;
+  left: 1194px;
+}
+.bookinghomepageimg-2-icon {
+  position: absolute;
+  top: -13px;
+  left: -22px;
+  width: 449px;
+  height: 314px;
+  object-fit: cover;
+}
+.facilities {
+  margin: 0;
+}
+.facilities-equipments {
+  position: absolute;
+  top: 44.64%;
+  left: 29.8%;
+  font-weight: 500;
+}
+.booking {
+  position: absolute;
+  top: 19.72%;
+  left: 19.7%;
+  font-size: var(--font-size-41xl);
+  font-family: var(--font-inria-sans);
+}
+.homebutton1-2 {
+  position: absolute;
+  top: 2003px;
+  left: 158px;
+  border-radius: var(--br-xl);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 408px;
+  height: 291px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.indoor-facilities,
+.outdoor-facilities {
+  position: absolute;
+  top: 44.64%;
+  left: 26.6%;
+  font-weight: 500;
+  cursor: pointer;
+}
+.indoor-facilities {
+  top: 65.74%;
+  left: 28.82%;
+}
+.homebutton3-2 {
+  position: absolute;
+  top: 2003px;
+  left: 753px;
+  border-radius: var(--br-xl);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 408px;
+  height: 291px;
+  overflow: hidden;
+}
+.daily-schedule-music-container {
+  position: absolute;
+  top: 44.64%;
+  left: 27.59%;
+  font-weight: 500;
+}
+.schedule {
+  position: absolute;
+  top: 19.72%;
+  left: 15.76%;
+  font-size: var(--font-size-41xl);
+  font-family: var(--font-inria-sans);
+}
+.homebutton2-2 {
+  position: absolute;
+  top: 2004px;
+  left: 1348px;
+  border-radius: var(--br-xl);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 408px;
+  height: 291px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.welcome,
+.welcomeback {
+  position: absolute;
+  top: 0;
+}
+.welcomeback {
+  left: 0;
+  background-color: rgba(255, 255, 255, 0.12);
+  width: 1933px;
+  height: 114px;
+}
+.welcome {
+  left: calc(50% - 158.45px);
+}
+.middle {
+  position: absolute;
+  top: 591px;
+  left: 0;
+  backdrop-filter: blur(10px);
+  width: 1932.7px;
+  height: 114.1px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-51xl);
+  color: #302e2e;
+  font-family: var(--font-baloo-da);
+}
+.visionback01,
+.visionback02 {
+  position: absolute;
+  top: 3px;
+  left: calc(50% + 3.5px);
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro-100);
+  width: 774px;
+  height: 398px;
+}
+.visionback02 {
+  top: 126px;
+  left: calc(50% + 35.5px);
+  box-shadow: 4px 4px 34px rgba(0, 0, 0, 0.25);
+  width: 711px;
+  height: 202px;
+}
+.visiondiscription {
+  position: absolute;
+  top: 148px;
+  left: 814px;
+  display: inline-block;
+  width: 695px;
+  height: 181px;
+}
+.vision {
+  position: absolute;
+  top: 37px;
+  left: 1121px;
+  font-size: var(--font-size-31xl);
+  text-align: left;
+}
+.missionback01 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 777.5px);
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro-100);
+  width: 681px;
+  height: 398px;
+}
+.missionback02,
+.missiondiscription {
+  position: absolute;
+  top: 138px;
+  width: 573px;
+  height: 181px;
+}
+.missionback02 {
+  left: calc(50% - 723.5px);
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro-100);
+  box-shadow: 4px 4px 36px rgba(0, 0, 0, 0.25);
+}
+.missiondiscription {
+  left: 54px;
+  display: inline-block;
+}
+.mission {
+  position: absolute;
+  top: 37px;
+  left: 249px;
+  font-size: var(--font-size-31xl);
+  text-align: left;
+}
+.vision-and-mission {
+  position: absolute;
+  top: 991px;
+  left: calc(50% - 777.5px);
+  width: 1555px;
+  height: 401px;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-inria-serif);
+}
+.selectsportbackimg-icon {
+  width: 709px;
+  position: relative;
+  border-radius: var(--br-31xl);
+  height: 127px;
+  object-fit: cover;
+  z-index: 0;
+}
+.select-your-sport {
+  width: 634px;
+  position: absolute;
+  margin: 0 !important;
+  top: 20px;
+  left: calc(50% - 315.5px);
+  font-weight: 900;
+  display: inline-block;
+  height: 91px;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.selectsport {
+  position: absolute;
+  top: 1759px;
+  left: calc(50% - 372.5px);
+  box-shadow: 10px 10px 14px rgba(0, 0, 0, 0.25);
+  width: 705px;
+  height: 131px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  cursor: pointer;
+  font-size: var(--font-size-41xl);
+  color: var(--color-white);
+  font-family: var(--font-arima-madurai);
+  border-radius: var(--br-31xl);
+}
+.bookingdiscription,
+.facilitiesdiscription,
+.shedulediscription {
+  position: absolute;
+  top: 2324px;
+  left: 140px;
+  font-family: var(--font-arial);
+  display: inline-block;
+  width: 464px;
+  height: 83px;
+}
+.facilitiesdiscription,
+.shedulediscription {
+  left: 724px;
+}
+.shedulediscription {
+  left: 1327px;
+}
+.homepage {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  height: 2826px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inknut-antiqua);
+}
+@media screen and (max-width: 1200px) {
+  .homepage {
+    width: 1920px;
+    height: 1280px;
+  }
+}

@@ -1,0 +1,103 @@
+.geethanjalee,
+.pahantharuwa {
+  position: absolute;
+  top: 588px;
+  left: calc(50% - 247.5px);
+  font-size: var(--font-size-46xl);
+  font-family: var(--font-kadwa);
+  color: var(--color-firebrick-300);
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.pahantharuwa {
+  top: 1942px;
+  left: calc(50% - 293.5px);
+}
+.pagediscription,
+.pahandiscription {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.pagediscription {
+  top: 393px;
+  left: calc(50% - 821.5px);
+  color: #180202;
+  text-align: center;
+  width: 1642px;
+  height: 116px;
+}
+.pahandiscription {
+  top: 2771px;
+  left: calc(50% - 828.5px);
+  color: #221616;
+  width: 1656px;
+  height: 214px;
+}
+.pahanimg-icon {
+  position: absolute;
+  top: 2088px;
+  left: calc(50% - 958.5px);
+  width: 1917px;
+  height: 604px;
+  object-fit: cover;
+}
+.geethanjaleediscription {
+  position: absolute;
+  top: 1386px;
+  left: calc(50% - 860.5px);
+  font-weight: 500;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 1721px;
+}
+.geethanjaleeimg-icon {
+  position: absolute;
+  top: 752px;
+  left: -2px;
+  width: 1917px;
+  height: 555px;
+  object-fit: cover;
+}
+.upcoming-events-will1 {
+  position: relative;
+  font-weight: 500;
+}
+.upcomingfield1,
+.upcomingtopic1 {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+}
+.upcomingfield1 {
+  top: 3624px;
+  left: calc(50% - 761.5px);
+  border: 1px solid var(--color-black);
+  width: 1522px;
+  height: 617px;
+}
+.upcomingtopic1 {
+  top: 3404px;
+  left: calc(50% - 332.5px);
+  border-radius: var(--br-xl);
+  background-color: var(--color-firebrick-100);
+  width: 665px;
+  height: 92px;
+  overflow: hidden;
+  font-size: var(--font-size-31xl);
+  font-family: var(--font-jura);
+}
+.musical-events1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 4833px;
+  overflow: hidden;
+  text-align: justify;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

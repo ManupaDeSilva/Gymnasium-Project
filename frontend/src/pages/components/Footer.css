@@ -1,0 +1,203 @@
+.callicon,
+.locationicon {
+  position: absolute;
+  top: 222px;
+  left: 44px;
+  width: 29.4px;
+  height: 27.3px;
+  object-fit: cover;
+}
+.locationicon {
+  top: 98px;
+  width: 27.3px;
+  height: 29.4px;
+}
+.contact-us1,
+.contactus3 {
+  position: absolute;
+  top: 12px;
+  left: 171px;
+}
+.contact-us1 {
+  top: 26px;
+  left: 110px;
+  font-size: var(--font-size-16xl);
+  cursor: pointer;
+}
+.faculty-of-physical5 {
+  position: absolute;
+  top: 305px;
+  left: calc(50% - 373.5px);
+  font-size: var(--font-size-4xl);
+  font-family: var(--font-inder);
+}
+.departments-of-physical {
+  margin-block-start: 0;
+  margin-block-end: 2.73px;
+}
+.peradeniya {
+  margin: 0;
+}
+.departments-of-physical-container {
+  position: absolute;
+  top: 93px;
+  left: 110px;
+  font-family: var(--font-inria-serif);
+}
+.telephone {
+  position: absolute;
+  top: 205px;
+  left: 110px;
+  font-size: var(--font-size-6xl);
+}
+.office-081-container {
+  position: absolute;
+  top: 249px;
+  left: 110px;
+  font-family: var(--font-inria-serif);
+}
+.services1 {
+  position: absolute;
+  top: -25px;
+  left: 91px;
+  font-size: var(--font-size-12xl);
+  font-weight: 900;
+}
+.booking2,
+.sports4 {
+  position: absolute;
+  cursor: pointer;
+}
+.sports4 {
+  top: 26px;
+  left: 113px;
+  font-size: var(--font-size-5xl);
+  font-weight: 900;
+}
+.booking2 {
+  top: 65px;
+  left: 0;
+  font-weight: 500;
+}
+.events1,
+.facilities3,
+.lockers,
+.payments1,
+.registrations {
+  position: absolute;
+  top: 147px;
+  left: 0;
+  font-weight: 500;
+  cursor: pointer;
+}
+.events1,
+.facilities3,
+.payments1,
+.registrations {
+  top: 65px;
+  left: 174px;
+}
+.facilities3,
+.payments1,
+.registrations {
+  top: 151px;
+}
+.facilities3,
+.registrations {
+  top: 110px;
+}
+.registrations {
+  top: 106px;
+  left: 0;
+}
+.services {
+  position: absolute;
+  top: 61px;
+  left: 803px;
+  width: 310px;
+  height: 192px;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-arima-madurai);
+}
+.find-us-on {
+  position: absolute;
+  top: 0;
+  left: 57px;
+  font-weight: 900;
+}
+.fblogo,
+.inlogo,
+.instalogo,
+.twitlogo,
+.ytlogo {
+  text-decoration: none;
+  position: absolute;
+  top: 87px;
+  left: 148px;
+  width: 44px;
+  height: 39.8px;
+  background-image: url(/public/twitlogo@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.fblogo,
+.inlogo,
+.instalogo,
+.ytlogo {
+  top: 85px;
+  left: 74px;
+  height: 42.2px;
+  background-image: url(/public/instalogo@3x.png);
+}
+.fblogo,
+.inlogo,
+.ytlogo {
+  top: 84px;
+  left: 0;
+  height: 44px;
+  background-image: url(/public/fblogo@3x.png);
+}
+.inlogo,
+.ytlogo {
+  top: 161px;
+  left: 57px;
+  width: 135px;
+  height: 42px;
+  background-image: url(/public/ytlogo@3x.png);
+}
+.inlogo {
+  top: 85px;
+  left: 222px;
+  width: 43px;
+  background-image: url(/public/inlogo@3x.png);
+}
+.finduson {
+  position: absolute;
+  top: 52px;
+  left: 1545px;
+  width: 265px;
+  height: 203px;
+  font-size: var(--font-size-12xl);
+  font-family: var(--font-arima-madurai);
+}
+.samarakoonsmabgspdnaclk {
+  position: absolute;
+  top: 290px;
+  left: 1502px;
+  font-family: var(--font-arvo);
+  text-align: center;
+  display: inline-block;
+  width: 350px;
+}
+.footer {
+  position: absolute;
+  width: 1917px;
+  background-color: var(--color-goldenrod);
+  height: 349px;
+  bottom: 0;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inika);
+}

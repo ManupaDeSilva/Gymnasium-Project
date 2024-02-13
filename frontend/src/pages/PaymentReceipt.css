@@ -1,0 +1,196 @@
+.receiptheader {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  width: 1592px;
+  height: 272px;
+}
+.unilogo-icon,
+.watermark-icon {
+  position: absolute;
+  top: 69px;
+  left: calc(50% + 620px);
+  width: 134px;
+  height: 135px;
+  object-fit: cover;
+}
+.watermark-icon {
+  top: 320px;
+  left: calc(50% - 366px);
+  width: 733px;
+  height: 543px;
+}
+.dateinputup,
+.payment-receipt {
+  position: absolute;
+  left: 75px;
+  font-family: var(--font-amaranth);
+}
+.payment-receipt {
+  top: 38px;
+  font-size: 66px;
+  display: inline-block;
+  width: 479px;
+  text-shadow: 4px 4px 6px rgba(0, 0, 0, 0.25);
+}
+.dateinputup {
+  top: 128px;
+  font-size: var(--font-size-27xl);
+}
+.department-of-physical {
+  margin-block-start: 0;
+  margin-block-end: 7.51px;
+}
+.university-of-peradeniya1 {
+  margin: 0;
+  font-size: var(--font-size-15xl-1);
+}
+.department-of-physical-container {
+  position: absolute;
+  top: 102px;
+  left: calc(50% + 46px);
+  font-weight: 300;
+  font-family: var(--font-inter);
+  font-size: 34.5px;
+}
+.this-is-the {
+  margin: 0;
+}
+.this-is-the-container {
+  position: absolute;
+  top: 342px;
+  left: calc(50% - 461px);
+  text-align: center;
+}
+.blank-line14 {
+  text-decoration: underline;
+}
+.blank-line13 {
+  color: inherit;
+}
+.receipttopics {
+  position: absolute;
+  top: 478px;
+  left: 224px;
+}
+.reference-number1 {
+  position: absolute;
+  top: 194px;
+  left: 75px;
+  font-size: var(--font-size-14xl);
+}
+.refnumberinputdown {
+  position: absolute;
+  top: 478px;
+  left: 503px;
+}
+.refnumberinputup {
+  position: absolute;
+  top: 194px;
+  left: 396px;
+  font-size: var(--font-size-14xl);
+}
+.dateinput,
+.paymentforinput,
+.submitterinput {
+  position: absolute;
+  top: 544px;
+  left: 503px;
+}
+.dateinput,
+.submitterinput {
+  top: 610px;
+}
+.submitterinput {
+  top: 676px;
+}
+.amountinput1,
+.contactus2,
+.currencyinput {
+  position: absolute;
+  top: 742px;
+  left: 503px;
+}
+.amountinput1,
+.contactus2 {
+  top: 801px;
+}
+.contactus2 {
+  top: 837px;
+  left: 1356px;
+  text-align: right;
+}
+.print {
+  position: relative;
+  font-size: var(--font-size-7xl-3);
+  font-family: var(--font-inder);
+  color: var(--color-black);
+  text-align: center;
+}
+.printbutton {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs);
+  background-color: var(--color-dodgerblue);
+  top: 880px;
+  left: 604px;
+  border-radius: var(--br-2xl);
+  box-shadow: 6px 6px 13px rgba(0, 0, 0, 0.25);
+  width: 172px;
+  height: 57px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.downloadbutton,
+.printbutton,
+.receipt {
+  position: absolute;
+  box-sizing: border-box;
+}
+.downloadbutton {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-3xs) 14px;
+  background-color: var(--color-dodgerblue);
+  top: 880px;
+  left: 816px;
+  border-radius: var(--br-2xl);
+  box-shadow: 6px 6px 13px rgba(0, 0, 0, 0.25);
+  width: 172px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.receipt {
+  top: 373px;
+  left: calc(50% - 794.5px);
+  border-radius: 23px;
+  background-color: #b5b5b5;
+  box-shadow: 0 0 33px 9px rgba(0, 0, 0, 0.25);
+  border: 1px solid #929292;
+  width: 1592px;
+  height: 967px;
+  overflow: hidden;
+}
+.faculty-of-physical3 {
+  position: absolute;
+  top: 1351px;
+  left: 587px;
+  font-size: var(--font-size-4xl);
+}
+.paymentreceipt {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  height: 1841px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-7xl-3);
+  color: var(--color-black);
+  font-family: var(--font-inder);
+}

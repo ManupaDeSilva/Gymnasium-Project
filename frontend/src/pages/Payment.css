@@ -1,0 +1,264 @@
+.paymenticonimg {
+  position: absolute;
+  top: 617px;
+  left: 1161px;
+  border-radius: 109px;
+  background-color: var(--color-gainsboro-100);
+  box-shadow: 0 0 53px 14px rgba(0, 0, 0, 0.25);
+  width: 557px;
+  height: 714px;
+}
+.cardimg-icon,
+.paymentimg-icon,
+.secureimg-icon {
+  position: absolute;
+  top: 722px;
+  left: 1201px;
+  width: 478px;
+  height: 331px;
+  object-fit: cover;
+}
+.paymentimg-icon,
+.secureimg-icon {
+  top: 1077px;
+  left: 1302px;
+  width: 276px;
+  height: 181px;
+}
+.secureimg-icon {
+  top: 526px;
+  left: 1107px;
+  width: 187px;
+  height: 183px;
+}
+.faculty-of-physical2 {
+  position: absolute;
+  top: 1361px;
+  left: 1100px;
+  font-family: var(--font-inder);
+}
+.savetimeback {
+  width: 240px;
+  position: relative;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-gainsboro-100);
+  box-shadow: 0 4px 37px 21px rgba(0, 0, 0, 0.25);
+  height: 236px;
+  z-index: 0;
+}
+.save-your {
+  margin: 0;
+}
+.saveyourtimettext,
+.timeimg-icon {
+  position: absolute;
+  margin: 0 !important;
+}
+.saveyourtimettext {
+  width: 158px;
+  top: 16px;
+  left: 46px;
+  font-weight: 800;
+  display: inline-block;
+  z-index: 1;
+}
+.timeimg-icon {
+  width: 93px;
+  top: 124px;
+  left: 73px;
+  height: 91px;
+  object-fit: cover;
+  z-index: 2;
+}
+.savetime {
+  position: absolute;
+  top: 462px;
+  left: 1548px;
+  border-radius: var(--br-26xl);
+  height: 236px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  text-align: center;
+  font-size: var(--font-size-14xl);
+}
+.your-payment-details {
+  position: absolute;
+  top: 87px;
+  left: 164px;
+  font-size: var(--font-size-36xl);
+  text-shadow: 5px 5px 6px rgba(0, 0, 0, 0.25);
+}
+.card-holders-name,
+.card-number {
+  position: absolute;
+  top: 249px;
+  left: 98px;
+}
+.card-number {
+  top: 390px;
+}
+.amount-lkr,
+.cvv,
+.expiration-date {
+  position: absolute;
+  top: 525px;
+  left: 98px;
+}
+.amount-lkr,
+.cvv {
+  top: 666px;
+}
+.cvv {
+  top: 525px;
+  left: 510px;
+}
+.visamasterimg-icon {
+  position: absolute;
+  top: 258px;
+  left: 577px;
+  width: 259px;
+  height: 54px;
+  object-fit: cover;
+}
+.cardnameinput {
+  border: 0;
+  outline: 0;
+  display: inline-block;
+  font-family: var(--font-arima-madurai);
+  font-size: var(--font-size-6xl);
+  background-color: transparent;
+  width: 512px;
+  position: relative;
+  font-weight: 700;
+  color: var(--color-gray-100);
+  text-align: left;
+}
+.line-icon2 {
+  width: 517.5px;
+  position: relative;
+  max-height: 100%;
+}
+.amount,
+.cardname {
+  position: absolute;
+  top: 312px;
+  left: 98px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.amount {
+  top: 723px;
+}
+.cardnumber,
+.cvvinput,
+.exdate {
+  border: 0;
+  outline: 0;
+  font-family: var(--font-arima-madurai);
+  background-color: transparent;
+  font-weight: 700;
+  color: var(--color-gray-100);
+}
+.cardnumber {
+  display: flex;
+  font-size: var(--font-size-6xl);
+  position: absolute;
+  top: 447px;
+  left: 98px;
+  width: 364px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-5xs);
+  box-sizing: border-box;
+}
+.cvvinput,
+.exdate {
+  font-size: var(--font-size-9xl);
+}
+.exdate {
+  display: flex;
+  position: absolute;
+  top: 586px;
+  left: 98px;
+  width: 134px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-5xs);
+  box-sizing: border-box;
+}
+.cvvinput {
+  position: relative;
+  text-align: left;
+}
+.line-icon4 {
+  width: 91px;
+  position: relative;
+  max-height: 100%;
+}
+.cvv1 {
+  position: absolute;
+  top: 586px;
+  left: 515px;
+  width: 91px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.pay-now {
+  position: relative;
+  text-shadow: 4px 4px 10px rgba(0, 0, 0, 0.25);
+}
+.paynow {
+  position: absolute;
+  top: 837px;
+  left: 303px;
+  border-radius: var(--br-6xl);
+  background: linear-gradient(180deg, #78d0f6, #f767e8);
+  box-shadow: 20px 20px 29px rgba(0, 0, 0, 0.25);
+  border: 2px solid #a3a3a3;
+  box-sizing: border-box;
+  width: 255px;
+  height: 99px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  cursor: pointer;
+  font-size: 37px;
+  font-family: var(--font-arial-rounded-mt-bold);
+}
+.paymentdetails {
+  position: absolute;
+  top: 426px;
+  left: 133px;
+  background-color: var(--color-white);
+  box-shadow: 4px 4px 17px rgba(0, 0, 0, 0.25) inset,
+    0 0 70px 23px rgba(0, 0, 0, 0.25);
+  width: 861px;
+  height: 1020px;
+  overflow: hidden;
+  font-size: var(--font-size-13xl);
+}
+.payment {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-powderblue);
+  height: 1961px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+  font-family: var(--font-arima-madurai);
+}

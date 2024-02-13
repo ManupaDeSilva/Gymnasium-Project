@@ -1,0 +1,803 @@
+.daily-practices-for {
+  position: relative;
+  font-weight: 900;
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.25);
+}
+.equipmenttopic1 {
+  position: absolute;
+  top: 66px;
+  left: 0;
+  background: linear-gradient(180deg, #f6b1b1, rgba(179, 177, 246, 0.89));
+  box-shadow: 0 22px 40px rgba(0, 0, 0, 0.25);
+  width: 1698px;
+  height: 146px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+}
+.select-equipment-by1 {
+  position: absolute;
+  top: 290px;
+  left: 150px;
+  font-size: var(--font-size-16xl);
+  font-family: var(--font-arvo);
+  display: inline-block;
+  width: 917px;
+  height: 60px;
+}
+.gototopicon2 {
+  width: 54px;
+  height: 55px;
+  object-fit: cover;
+}
+.gototop5,
+.gototopicon2 {
+  position: relative;
+}
+.gototop4 {
+  position: absolute;
+  top: 3379px;
+  left: 1573px;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  cursor: pointer;
+  font-size: var(--font-size-6xl);
+}
+.weightliftingimg-icon1 {
+  width: 225px;
+  position: absolute;
+  margin: 0 !important;
+  top: 4px;
+  left: 80px;
+  height: 228px;
+  object-fit: cover;
+  z-index: 0;
+}
+.weightlifting3 {
+  width: 371px;
+  position: absolute;
+  margin: 0 !important;
+  top: 245px;
+  left: 0;
+  font-size: var(--font-size-31xl);
+  display: inline-block;
+  font-family: var(--font-inria-serif);
+  color: var(--color-black);
+  text-align: center;
+  z-index: 1;
+}
+.weightlifting2 {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 8px;
+  left: 0;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 374px;
+  height: 313px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.swimmingimg-icon1 {
+  width: 284px;
+  position: absolute;
+  margin: 0 !important;
+  top: 44px;
+  left: 44px;
+  height: 158px;
+  object-fit: cover;
+  z-index: 0;
+}
+.swimming2 {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 8px;
+  left: 476px;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 377px;
+  height: 313px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.trackandfieldimg-icon1 {
+  width: 282px;
+  position: absolute;
+  margin: 0 !important;
+  top: 32px;
+  left: 45px;
+  height: 191px;
+  object-fit: cover;
+  z-index: 0;
+}
+.trackandfield2 {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 8px;
+  left: 955px;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 374px;
+  height: 313px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.row71 {
+  position: absolute;
+  top: 2897px;
+  left: 188px;
+  width: 1352px;
+  height: 343px;
+  overflow: hidden;
+}
+.wrestlingimg-icon1 {
+  width: 308px;
+  position: absolute;
+  margin: 0 !important;
+  top: 22px;
+  left: 16px;
+  height: 218px;
+  object-fit: cover;
+  z-index: 0;
+}
+.wrestling2 {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 6px;
+  left: 0;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 374px;
+  height: 313px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.kickboxingimg-icon1 {
+  width: 254px;
+  position: absolute;
+  margin: 0 !important;
+  top: 28px;
+  left: 64px;
+  height: 204px;
+  object-fit: cover;
+  z-index: 0;
+}
+.kick-boxing1 {
+  margin: 0;
+}
+.kickboxing2 {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 7px;
+  left: 476px;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 377px;
+  height: 312px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.taekwondoimg-icon1 {
+  width: 245px;
+  position: absolute;
+  margin: 0 !important;
+  top: 16px;
+  left: 63px;
+  height: 218px;
+  object-fit: cover;
+  z-index: 0;
+}
+.taekwondo2 {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  top: 6px;
+  left: 955px;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 374px;
+  height: 313px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.row61,
+.taekwondo2,
+.tennis2 {
+  position: absolute;
+}
+.row61 {
+  top: 2491px;
+  left: 188px;
+  width: 1352px;
+  height: 342px;
+  overflow: hidden;
+}
+.tennis2 {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  top: 3px;
+  left: 0;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 374px;
+  height: 313px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.volleyballimg-icon1 {
+  width: 293px;
+  position: absolute;
+  margin: 0 !important;
+  top: 11px;
+  left: 39px;
+  height: 232px;
+  object-fit: cover;
+  z-index: 0;
+}
+.volleyball2 {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 3px;
+  left: 476px;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 377px;
+  height: 313px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.rugbyimg-icon1 {
+  width: 231px;
+  margin: 0 !important;
+  top: 0;
+  left: 70px;
+  height: 242px;
+  object-fit: cover;
+  z-index: 0;
+}
+.row51,
+.rugby2,
+.rugbyimg-icon1 {
+  position: absolute;
+}
+.rugby2 {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  top: 3px;
+  left: 955px;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 374px;
+  height: 313px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.row51 {
+  top: 2086px;
+  left: 188px;
+  width: 1352px;
+  height: 341px;
+  overflow: hidden;
+}
+.netballimg-icon1 {
+  width: 226px;
+  position: absolute;
+  margin: 0 !important;
+  top: 27px;
+  left: 73px;
+  border-radius: var(--br-97xl-5);
+  height: 222px;
+  object-fit: cover;
+  z-index: 0;
+}
+.netball2 {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 14px;
+  left: 0;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 374px;
+  height: 313px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.karateimg-icon1 {
+  width: 274px;
+  position: absolute;
+  margin: 0 !important;
+  top: 14px;
+  left: 49px;
+  height: 247px;
+  object-fit: cover;
+  z-index: 0;
+}
+.karate2 {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 14px;
+  left: 477px;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 377px;
+  height: 313px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.tabletennisimg-icon1 {
+  width: 250px;
+  position: absolute;
+  margin: 0 !important;
+  top: 14px;
+  left: 61px;
+  height: 222px;
+  object-fit: cover;
+  z-index: 0;
+}
+.tabletennis2 {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 14px;
+  left: 956px;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 374px;
+  height: 313px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.row41 {
+  top: 1667px;
+  left: 187px;
+  width: 1353px;
+  height: 353px;
+  overflow: hidden;
+}
+.elle2,
+.elle3,
+.row41 {
+  position: absolute;
+}
+.elle3 {
+  width: 371px;
+  margin: 0 !important;
+  top: 248px;
+  left: 0;
+  font-size: var(--font-size-31xl);
+  display: inline-block;
+  font-family: var(--font-inria-serif);
+  color: var(--color-black);
+  text-align: center;
+  z-index: 1;
+}
+.elle2 {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  top: 11px;
+  left: 1px;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 373px;
+  height: 312px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.footballtimg-icon1 {
+  width: 200px;
+  position: absolute;
+  margin: 0 !important;
+  top: 11px;
+  left: 86px;
+  height: 230px;
+  object-fit: cover;
+  z-index: 0;
+}
+.football2 {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 12px;
+  left: 476px;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 377px;
+  height: 312px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.hockeyimg-icon1 {
+  width: 254px;
+  margin: 0 !important;
+  top: 20px;
+  left: 59px;
+  height: 216px;
+  object-fit: cover;
+  z-index: 0;
+}
+.hockey1,
+.hockeyimg-icon1,
+.row31 {
+  position: absolute;
+}
+.hockey1 {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  top: 11px;
+  left: 955px;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 374px;
+  height: 313px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.row31 {
+  top: 1262px;
+  left: 188px;
+  width: 1352px;
+  height: 350px;
+  overflow: hidden;
+}
+.carromimg-icon1 {
+  width: 306px;
+  position: absolute;
+  margin: 0 !important;
+  top: 27px;
+  left: 32px;
+  height: 201px;
+  object-fit: cover;
+  z-index: 0;
+}
+.carrom2 {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 32px;
+  left: 0;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 367px;
+  height: 311px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.chessimg-icon1 {
+  width: 290px;
+  position: absolute;
+  margin: 0 !important;
+  top: 30px;
+  left: 58px;
+  height: 213px;
+  object-fit: cover;
+  z-index: 0;
+}
+.chess2 {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 31px;
+  left: 476px;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 377px;
+  height: 313px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.cricketimg-icon1 {
+  width: 232px;
+  position: absolute;
+  margin: 0 !important;
+  top: 13px;
+  left: 70px;
+  height: 229px;
+  object-fit: cover;
+  z-index: 0;
+}
+.cricket4 {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 31px;
+  left: 955px;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 374px;
+  height: 313px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.row21 {
+  position: absolute;
+  top: 834px;
+  left: 188px;
+  width: 1352px;
+  height: 374px;
+  overflow: hidden;
+}
+.batminton5,
+.batmintonimg-icon1 {
+  position: absolute;
+  margin: 0 !important;
+}
+.batmintonimg-icon1 {
+  width: 294px;
+  top: 22px;
+  left: 38px;
+  height: 205px;
+  object-fit: cover;
+  z-index: 0;
+}
+.batminton5 {
+  width: 330px;
+  top: 238px;
+  left: 20px;
+  font-size: var(--font-size-31xl);
+  display: inline-block;
+  font-family: var(--font-inria-serif);
+  color: var(--color-black);
+  text-align: center;
+  z-index: 1;
+}
+.batminton3,
+.batminton4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.batminton4 {
+  width: 370px;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  height: 307px;
+  position: relative;
+  gap: var(--gap-28xl);
+}
+.batminton3 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs);
+  background-color: transparent;
+  position: absolute;
+  top: 10px;
+  left: -6px;
+}
+.baseball5,
+.baseballimg-icon1 {
+  position: absolute;
+  margin: 0 !important;
+}
+.baseballimg-icon1 {
+  width: 225px;
+  top: 22px;
+  left: 64px;
+  height: 216px;
+  object-fit: cover;
+  z-index: 0;
+}
+.baseball5 {
+  width: 330px;
+  top: 245px;
+  left: 22px;
+  font-size: var(--font-size-31xl);
+  display: inline-block;
+  font-family: var(--font-inria-serif);
+  color: var(--color-black);
+  text-align: center;
+  z-index: 1;
+}
+.baseball3,
+.baseball4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.baseball4 {
+  width: 377px;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  height: 309px;
+  position: relative;
+  gap: var(--gap-28xl);
+}
+.baseball3 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs);
+  background-color: transparent;
+  position: absolute;
+  top: 7px;
+  left: 466px;
+}
+.basketballimg-icon1 {
+  width: 194px;
+  position: absolute;
+  margin: 0 !important;
+  top: 20px;
+  left: 89px;
+  height: 216px;
+  object-fit: cover;
+  z-index: 0;
+}
+.basketball2 {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 12px;
+  left: 952px;
+  border-radius: var(--br-mini);
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 373px;
+  height: 311px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.row11,
+.sports6 {
+  position: absolute;
+  overflow: hidden;
+}
+.row11 {
+  top: 445px;
+  left: 191px;
+  width: 1349px;
+  height: 358px;
+}
+.sports6 {
+  top: 319px;
+  left: calc(50% - 848.5px);
+  background-color: var(--color-white);
+  width: 1698px;
+  height: 3239px;
+}
+.faculty-of-physical6 {
+  position: absolute;
+  top: 3620px;
+  left: calc(50% - 660.5px);
+  font-size: var(--font-size-4xl);
+  font-family: var(--font-inder);
+}
+.dailypractices {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 4143px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-56xl);
+  color: var(--color-black);
+  font-family: var(--font-arima-madurai);
+}

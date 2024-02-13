@@ -1,0 +1,279 @@
+.aboutusimg-icon {
+  position: absolute;
+  top: 259px;
+  left: 0;
+  width: 1917px;
+  height: 507px;
+  object-fit: cover;
+}
+.about-us2 {
+  position: relative;
+}
+.aboutus1 {
+  position: absolute;
+  top: 407px;
+  left: 0;
+  background-color: rgba(255, 255, 255, 0.47);
+  box-shadow: 0 4px 33px rgba(0, 0, 0, 0.25) inset;
+  width: 1917px;
+  height: 211px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  font-size: var(--font-size-106xl);
+  font-family: var(--font-jetbrains-mono);
+}
+.historytpoic,
+.staff {
+  position: absolute;
+  top: 825px;
+  left: calc(50% - 112.5px);
+  font-size: var(--font-size-46xl);
+  font-family: var(--font-arial);
+  color: var(--color-firebrick-200);
+}
+.staff {
+
+  top: 1514px;
+  left: calc(50% - 79.5px);
+  display: inline-block;
+  width: 159px;
+}
+.the-university-of {
+  margin: 0;
+}
+.history {
+  position: absolute;
+  top: 931px;
+  left: calc(50% - 816.5px);
+  font-family: var(--font-arial);
+  display: inline-block;
+  width: 1596px;
+  height: 565px;
+}
+.prof-nwb-balasooriya {
+  margin-block-start: 0;
+  margin-block-end: 8px;
+}
+.directordiscription {
+  position: absolute;
+  top: 1758px;
+  left: 393px;
+  font-weight: 500;
+  display: inline-block;
+  width: 569px;
+  height: 314px;
+}
+.directorimg-icon {
+  position: absolute;
+  top: 1748px;
+  left: 95px;
+  width: 269px;
+  height: 312px;
+  object-fit: cover;
+}
+.directortopic {
+  position: absolute;
+  top: 1668px;
+  left: 95px;
+  font-size: var(--font-size-16xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 529px;
+  height: 40px;
+}
+.mallawaarachchiimg-icon {
+  position: absolute;
+  top: 1755px;
+  left: 1029px;
+  width: 228px;
+  height: 283px;
+  object-fit: cover;
+}
+.mallawaarachchitopic {
+  position: absolute;
+  top: 1668px;
+  left: 1029px;
+  font-size: var(--font-size-16xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 792px;
+  height: 40px;
+}
+.mallawaarachchidiscription,
+.piyarathnetopic {
+  position: absolute;
+  top: 1807px;
+  left: 1286px;
+  font-weight: 500;
+  display: inline-block;
+  width: 489px;
+  height: 164px;
+}
+.piyarathnetopic {
+  top: 2211px;
+  left: 95px;
+  font-size: var(--font-size-16xl);
+  font-weight: 600;
+  width: 730px;
+  height: 60px;
+}
+.piyarathnediscription {
+  position: absolute;
+  top: 2331px;
+  left: 402px;
+  font-weight: 500;
+  display: inline-block;
+  width: 423px;
+  height: 181px;
+}
+.piyarathneimg-icon,
+.samarakoonimg-icon {
+  position: absolute;
+  top: 2301px;
+  left: 95px;
+  width: 265px;
+  height: 322px;
+  object-fit: cover;
+}
+.samarakoonimg-icon {
+  top: 2294px;
+  left: 1029px;
+  width: 267px;
+  height: 336px;
+}
+.samarakoontopic {
+  position: absolute;
+  top: 2211px;
+  left: 1025px;
+  font-size: var(--font-size-16xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 693px;
+  height: 40px;
+}
+.samarakoondiscription {
+  position: absolute;
+  top: 2331px;
+  left: 1328px;
+  font-weight: 500;
+  display: inline-block;
+  width: 447px;
+  height: 221px;
+}
+.kulathungeimg-icon {
+  position: absolute;
+  top: 2855px;
+  left: 95px;
+  width: 229px;
+  height: 313px;
+  object-fit: cover;
+}
+.kulathungetopic {
+  position: absolute;
+  top: 2775px;
+  left: 95px;
+  font-size: var(--font-size-16xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 739px;
+  height: 39px;
+}
+.kulathungediscription {
+  position: absolute;
+  top: 2906px;
+  left: 402px;
+  font-weight: 500;
+  display: inline-block;
+  width: 387px;
+  height: 201px;
+}
+.indikaimg-icon {
+  position: absolute;
+  top: 2861px;
+  left: 1031px;
+  width: 253px;
+  height: 307px;
+  object-fit: cover;
+}
+.indikadiscription,
+.indikatopic {
+  position: absolute;
+  display: inline-block;
+}
+.indikatopic {
+  top: 2775px;
+  left: 1029px;
+  font-size: var(--font-size-16xl);
+  font-weight: 600;
+  width: 712px;
+  height: 39px;
+}
+.indikadiscription {
+  top: 2921px;
+  left: 1307px;
+  font-weight: 500;
+  width: 338px;
+  height: 212px;
+}
+.line1,
+.line2,
+.line3 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.line3 {
+  top: 1630.5px;
+  left: calc(50% + 1px);
+  border-right: 1px solid var(--color-black);
+  width: 1px;
+  height: 1590px;
+}
+.line1,
+.line2 {
+  top: 2145.5px;
+  left: calc(50% - 838px);
+  border-top: 1px solid var(--color-black);
+  width: 1678px;
+  height: 1px;
+}
+.line1 {
+  top: 2712.5px;
+}
+.aboutus {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 3623px;
+  overflow: hidden;
+  text-align: justify;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+
+.inputfield{
+
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  height: 110px;
+  width: 110px;
+  background-color: transparent;
+
+
+}
+
+.inputf1{
+
+  position: absolute;
+  top:  610px;
+  left: 600px;
+  height: 10px;
+  width: 100px;
+
+
+}

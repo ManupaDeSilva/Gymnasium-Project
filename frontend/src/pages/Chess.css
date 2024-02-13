@@ -1,0 +1,307 @@
+.locker05back-icon {
+  position: absolute;
+  top: 260px;
+  left: 0;
+  width: 1917px;
+  height: 879px;
+  object-fit: cover;
+}
+.chess5 {
+  position: relative;
+  font-weight: 900;
+  text-shadow: 4px 0 0#000, 0 4px 0#000, -4px 0 0#000, 0-4px 0#000;
+}
+.chesstopic {
+  position: absolute;
+  top: 322px;
+  left: 836px;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-dimgray-600);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-6xl) 0;
+  font-size: var(--font-size-46xl);
+}
+.court3,
+.equipments4,
+.locker-05 {
+  position: absolute;
+  top: 274px;
+  left: 23px;
+  font-size: var(--font-size-26xl);
+  font-weight: 900;
+  text-shadow: 2px 0 0#000, 0 2px 0#000, -2px 0 0#000, 0-2px 0#000;
+}
+.court3,
+.equipments4 {
+  top: 453px;
+  left: 384px;
+  font-size: var(--font-size-31xl);
+}
+.court3 {
+  top: 455px;
+  left: 1328px;
+}
+.available-number-of4,
+.today-available-times3 {
+  position: absolute;
+  top: 594px;
+  left: 294px;
+  font-size: var(--font-size-16xl);
+  font-weight: 900;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.today-available-times3 {
+  top: 554px;
+  left: 1227px;
+}
+.div4 {
+  position: relative;
+  font-weight: 900;
+}
+.bacsketballsavailable4,
+.courttimeslots6,
+.courttimeslots7 {
+  position: absolute;
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.bacsketballsavailable4 {
+  top: 675px;
+  left: 478px;
+  background-color: var(--color-white);
+  width: 92px;
+  height: 79px;
+  flex-direction: column;
+  padding: var(--padding-3xs) var(--padding-xs) var(--padding-6xs);
+  font-size: var(--font-size-26xl);
+  color: var(--color-black);
+}
+.courttimeslots6,
+.courttimeslots7 {
+  top: 648px;
+  left: 1161px;
+  background-color: var(--color-gray-400);
+  width: 559px;
+  height: 380px;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+}
+.courttimeslots7 {
+  top: 844px;
+  left: 244px;
+  height: 222px;
+}
+.strategic-training-our {
+  margin: 0;
+}
+.chessdiscription01,
+.chessdiscription011 {
+  position: absolute;
+  display: inline-block;
+  color: var(--color-black);
+}
+.chessdiscription01 {
+  top: 2556px;
+  left: calc(50% - 787.5px);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  text-align: justify;
+  width: 1537px;
+  height: 809px;
+}
+.chessdiscription011 {
+  top: 1285px;
+  left: calc(50% - 775.5px);
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inria-serif);
+  text-align: center;
+  width: 1582px;
+  height: 150px;
+}
+.schedule4 {
+  position: relative;
+}
+.dates3,
+.times3 {
+  position: absolute;
+  top: 22px;
+  left: 152px;
+}
+.times3 {
+  left: 613px;
+}
+.border-icon15,
+.event-description3 {
+  position: absolute;
+  top: 22px;
+  left: 1095px;
+}
+.border-icon15 {
+  left: 428px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 638px;
+}
+.border-icon16,
+.border-icon17,
+.border-icon18 {
+  position: absolute;
+  top: 102px;
+  left: 22px;
+  max-height: 100%;
+  width: 387.5px;
+}
+.border-icon17,
+.border-icon18 {
+  left: 460px;
+}
+.border-icon18 {
+  left: 958px;
+  width: 551px;
+}
+.border-icon19 {
+  position: absolute;
+  top: 22px;
+  left: 918.9px;
+  width: 2.1px;
+  height: 638px;
+  object-fit: contain;
+}
+.am-4oo6,
+.am-4oo7,
+.monday3,
+.tuesday3 {
+  position: absolute;
+  top: 179px;
+  left: 127px;
+  display: inline-block;
+  width: 177px;
+  height: 53px;
+}
+.am-4oo6,
+.am-4oo7,
+.tuesday3 {
+  left: 501px;
+  width: 371px;
+}
+.am-4oo7,
+.tuesday3 {
+  top: 288px;
+}
+.tuesday3 {
+  left: 127px;
+  width: 177px;
+}
+.practices6,
+.practices7 {
+  position: absolute;
+  top: 179px;
+  left: 1149px;
+}
+.practices7 {
+  top: 288px;
+}
+.updatebutton {
+  cursor: pointer;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-inika);
+  font-size: var(--font-size-xl);
+  background-color: var(--color-darkgray-100);
+  border-radius: var(--br-11xl);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-lg);
+  color: var(--color-black);
+}
+.dateinput7,
+.timeinput3 {
+  position: absolute;
+  top: 557px;
+  background-color: var(--color-gainsboro-100);
+  height: 92px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.dateinput7 {
+  left: 46px;
+  width: 343px;
+  overflow: hidden;
+  padding: var(--padding-mid) var(--padding-13xl) var(--padding-mid)
+    var(--padding-193xl);
+  box-sizing: border-box;
+}
+.timeinput3 {
+  left: 501px;
+  width: 371px;
+  padding: var(--padding-mid) var(--padding-13xl) var(--padding-mid)
+    var(--padding-210xl);
+}
+.dateinput8,
+.scheduletable3,
+.timeinput3 {
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.dateinput8 {
+  position: absolute;
+  top: 557px;
+  left: 982px;
+  background-color: var(--color-gainsboro-100);
+  width: 496px;
+  height: 92px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mid) var(--padding-13xl) var(--padding-mid)
+    var(--padding-320xl);
+}
+.scheduletable3 {
+  width: 1550px;
+  position: relative;
+  border: 1px solid var(--color-black);
+  height: 689px;
+  flex-shrink: 0;
+  font-size: var(--font-size-22xl);
+}
+.sheduletable3 {
+  position: absolute;
+  top: 1580px;
+  left: 184px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-60xl);
+  font-size: var(--font-size-51xl);
+  color: var(--color-black);
+  font-family: var(--font-inika);
+}
+.chess4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 3800px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  font-family: var(--font-arima-madurai);
+}
+.bookingbutton1{
+  position: absolute;
+  left: 754px;
+  top: 1118px;
+
+}

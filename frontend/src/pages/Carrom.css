@@ -1,0 +1,307 @@
+.locker04back-icon {
+  position: absolute;
+  top: 260px;
+  left: 0;
+  width: 1917px;
+  height: 879px;
+  object-fit: cover;
+}
+.carrom5 {
+  position: relative;
+  font-weight: 900;
+  text-shadow: 4px 0 0#000, 0 4px 0#000, -4px 0 0#000, 0-4px 0#000;
+}
+.carromtopic {
+  position: absolute;
+  top: 322px;
+  left: 785px;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-dimgray-600);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-6xl) 0;
+  font-size: var(--font-size-46xl);
+}
+.court2,
+.equipments3,
+.locker-04 {
+  position: absolute;
+  top: 274px;
+  left: 23px;
+  font-size: var(--font-size-26xl);
+  font-weight: 900;
+  text-shadow: 2px 0 0#000, 0 2px 0#000, -2px 0 0#000, 0-2px 0#000;
+}
+.court2,
+.equipments3 {
+  top: 453px;
+  left: 384px;
+  font-size: var(--font-size-31xl);
+}
+.court2 {
+  top: 455px;
+  left: 1328px;
+}
+.available-number-of3,
+.today-available-times2 {
+  position: absolute;
+  top: 603px;
+  left: 294px;
+  font-size: var(--font-size-16xl);
+  font-weight: 900;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.today-available-times2 {
+  top: 554px;
+  left: 1227px;
+}
+.div3 {
+  position: relative;
+  font-weight: 900;
+}
+.bacsketballsavailable3,
+.courttimeslots4,
+.courttimeslots5 {
+  position: absolute;
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.bacsketballsavailable3 {
+  top: 675px;
+  left: 478px;
+  background-color: var(--color-white);
+  width: 92px;
+  height: 79px;
+  flex-direction: column;
+  padding: var(--padding-3xs) var(--padding-xs) var(--padding-6xs);
+  font-size: var(--font-size-26xl);
+  color: var(--color-black);
+}
+.courttimeslots4,
+.courttimeslots5 {
+  top: 648px;
+  left: 1161px;
+  background-color: var(--color-gray-400);
+  width: 559px;
+  height: 380px;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+}
+.courttimeslots5 {
+  top: 844px;
+  left: 244px;
+  height: 222px;
+}
+.carromdiscription1 {
+  position: absolute;
+  top: 1304px;
+  left: calc(50% - 782.5px);
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  font-family: var(--font-inria-serif);
+  color: var(--color-black);
+  text-align: center;
+  width: 1582px;
+  height: 150px;
+}
+.skill-development-our {
+  margin: 0;
+}
+.carromdiscription2 {
+  position: absolute;
+  top: 2556px;
+  left: calc(50% - 739.5px);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: justify;
+  display: inline-block;
+  width: 1537px;
+  height: 749px;
+}
+.schedule3 {
+  position: relative;
+}
+.dates2,
+.times2 {
+  position: absolute;
+  top: 22px;
+  left: 152px;
+}
+.times2 {
+  left: 613px;
+}
+.border-icon10,
+.event-description2 {
+  position: absolute;
+  top: 22px;
+  left: 1095px;
+}
+.border-icon10 {
+  left: 428px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 638px;
+}
+.border-icon11,
+.border-icon12,
+.border-icon13 {
+  position: absolute;
+  top: 102px;
+  left: 22px;
+  max-height: 100%;
+  width: 387.5px;
+}
+.border-icon12,
+.border-icon13 {
+  left: 460px;
+}
+.border-icon13 {
+  left: 958px;
+  width: 551px;
+}
+.border-icon14 {
+  position: absolute;
+  top: 22px;
+  left: 918.9px;
+  width: 2.1px;
+  height: 638px;
+  object-fit: contain;
+}
+.am-4oo4,
+.am-4oo5,
+.monday2,
+.tuesday2 {
+  position: absolute;
+  top: 179px;
+  left: 127px;
+  display: inline-block;
+  width: 177px;
+  height: 53px;
+}
+.am-4oo4,
+.am-4oo5,
+.tuesday2 {
+  left: 501px;
+  width: 371px;
+}
+.am-4oo5,
+.tuesday2 {
+  top: 288px;
+}
+.tuesday2 {
+  left: 127px;
+  width: 177px;
+}
+.practices4,
+.practices5 {
+  position: absolute;
+  top: 179px;
+  left: 1149px;
+}
+.practices5 {
+  top: 288px;
+}
+.updatebutton {
+  cursor: pointer;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-inika);
+  font-size: var(--font-size-xl);
+  background-color: var(--color-darkgray-100);
+  border-radius: var(--br-11xl);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-lg);
+  color: var(--color-black);
+}
+.dateinput5,
+.timeinput2 {
+  position: absolute;
+  top: 557px;
+  background-color: var(--color-gainsboro-100);
+  height: 92px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.dateinput5 {
+  left: 46px;
+  width: 343px;
+  overflow: hidden;
+  padding: var(--padding-mid) var(--padding-13xl) var(--padding-mid)
+    var(--padding-193xl);
+  box-sizing: border-box;
+}
+.timeinput2 {
+  left: 501px;
+  width: 371px;
+  padding: var(--padding-mid) var(--padding-13xl) var(--padding-mid)
+    var(--padding-210xl);
+}
+.dateinput6,
+.scheduletable2,
+.timeinput2 {
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.dateinput6 {
+  position: absolute;
+  top: 557px;
+  left: 982px;
+  background-color: var(--color-gainsboro-100);
+  width: 496px;
+  height: 92px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mid) var(--padding-13xl) var(--padding-mid)
+    var(--padding-320xl);
+}
+.scheduletable2 {
+  width: 1550px;
+  position: relative;
+  border: 1px solid var(--color-black);
+  height: 689px;
+  flex-shrink: 0;
+  font-size: var(--font-size-22xl);
+}
+.sheduletable2 {
+  position: absolute;
+  top: 1580px;
+  left: 184px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-60xl);
+  font-size: var(--font-size-51xl);
+  color: var(--color-black);
+  font-family: var(--font-inika);
+}
+.carrom4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 3800px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  font-family: var(--font-arima-madurai);
+}
+.bookingbutton1{
+  position: absolute;
+  left: 754px;
+  top: 1118px;
+
+}

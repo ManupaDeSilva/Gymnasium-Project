@@ -1,0 +1,381 @@
+.background2,
+.background3,
+.background4 {
+  position: absolute;
+  background-color: var(--color-gainsboro-200);
+  width: 1347px;
+}
+.background4 {
+  top: 1986px;
+  left: 285px;
+  height: 339px;
+}
+.background2,
+.background3 {
+  top: 753px;
+  left: calc(50% - 673.5px);
+  height: 621px;
+}
+.background3 {
+  top: 1434px;
+  width: 628px;
+  height: 414px;
+}
+.save-changes {
+  position: relative;
+}
+.savechangesbutton {
+  position: absolute;
+  top: 1748px;
+  left: 679px;
+  border-radius: var(--br-11xl);
+  background-color: rgba(90, 169, 203, 0.6);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 16px 38px;
+}
+.topicbackground1-icon {
+  position: absolute;
+  top: 456px;
+  left: calc(50% - 673.5px);
+  border-radius: var(--br-31xl);
+  width: 1347px;
+  height: 263px;
+}
+.account-type-show,
+.your-name-here {
+  position: absolute;
+  top: 556px;
+  left: calc(50% - 196.5px);
+  font-size: var(--font-size-46xl);
+  font-weight: 600;
+  font-family: var(--font-asap-condensed);
+  text-align: center;
+}
+.account-type-show {
+  top: 640px;
+  left: calc(50% - 157.5px);
+  font-size: var(--font-size-16xl);
+  font-weight: 500;
+  white-space: pre-wrap;
+}
+.backgroundlogo,
+.profilelogo-icon {
+  position: absolute;
+  top: 356px;
+  left: calc(50% - 99.5px);
+  width: 200px;
+  height: 200px;
+}
+.backgroundlogo {
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-100);
+}
+.profilelogo-icon {
+  object-fit: cover;
+}
+.email-address1,
+.gender1,
+.name {
+  position: absolute;
+  white-space: pre-wrap;
+}
+.name {
+  top: 889px;
+  left: 378px;
+}
+.email-address1,
+.gender1 {
+  left: 377px;
+  display: inline-block;
+}
+.email-address1 {
+  top: 951px;
+  width: 171px;
+  height: 33px;
+}
+.gender1 {
+  top: 1013px;
+  width: 90px;
+}
+.address1,
+.contact-number1 {
+  left: 378px;
+  white-space: pre-wrap;
+}
+.contact-number1 {
+  position: absolute;
+  top: 1078px;
+  display: inline-block;
+  width: 179px;
+  height: 33px;
+}
+.address1 {
+  top: 1140px;
+  width: 146px;
+}
+.account-type,
+.address1,
+.change-password {
+  position: absolute;
+  display: inline-block;
+  height: 33px;
+}
+.account-type {
+  top: 1202px;
+  left: 378px;
+  white-space: pre-wrap;
+  width: 179px;
+}
+.change-password {
+  top: 1277px;
+  left: 377px;
+  font-size: var(--font-size-6xl);
+  width: 240px;
+}
+.profiletopic2 {
+  top: 2024px;
+  left: 309px;
+  font-size: var(--font-size-9xl);
+  display: inline-block;
+  width: 692px;
+}
+.bio,
+.nameshow,
+.profiletopic2 {
+  position: absolute;
+}
+.bio {
+  top: 794px;
+  left: 323px;
+  font-size: var(--font-size-16xl);
+}
+.nameshow {
+  top: 889px;
+  left: 480px;
+  width: 320px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.email-address-will {
+  width: 329px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.accounttypeshow,
+.addressshow,
+.emailshow,
+.gendershow,
+.numbershow {
+  position: absolute;
+  top: 951px;
+  left: 557px;
+  width: 352px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.accounttypeshow,
+.addressshow,
+.gendershow,
+.numbershow {
+  top: 1016px;
+  left: 489px;
+  width: 320px;
+}
+.accounttypeshow,
+.addressshow,
+.numbershow {
+  top: 1078px;
+  left: 574px;
+}
+.accounttypeshow,
+.addressshow {
+  top: 1140px;
+  left: 489px;
+  width: 370px;
+}
+.accounttypeshow {
+  top: 1202px;
+  left: 554px;
+  width: 320px;
+}
+.editaddress,
+.editcontactnumber,
+.editemail,
+.editgender,
+.editname {
+  position: absolute;
+  top: 889px;
+  left: 1512px;
+  color: var(--color-steelblue-200);
+}
+.editaddress,
+.editcontactnumber,
+.editemail,
+.editgender {
+  top: 951px;
+}
+.editaddress,
+.editcontactnumber,
+.editgender {
+  top: 1016px;
+}
+.editaddress,
+.editcontactnumber {
+  top: 1078px;
+}
+.editaddress {
+  top: 1140px;
+}
+.editlogo-1-icon,
+.editlogo-2-icon,
+.editlogo-3-icon,
+.editlogo-4-icon,
+.editlogo-5-icon {
+  position: absolute;
+  top: 897px;
+  left: 1488px;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.editlogo-2-icon,
+.editlogo-3-icon,
+.editlogo-4-icon,
+.editlogo-5-icon {
+  top: 959px;
+}
+.editlogo-3-icon,
+.editlogo-4-icon,
+.editlogo-5-icon {
+  top: 1024px;
+}
+.editlogo-4-icon,
+.editlogo-5-icon {
+  top: 1086px;
+}
+.editlogo-5-icon {
+  top: 1148px;
+}
+.sport1show,
+.sport2show,
+.sport3show,
+.sport4show {
+  position: absolute;
+  top: 2139px;
+  left: 403px;
+  background-color: #aae27e;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xl) 63px;
+  font-size: var(--font-size-9xl);
+}
+.sport2show,
+.sport3show,
+.sport4show {
+  left: 702px;
+  background-color: #7ee2be;
+  padding: var(--padding-3xl) 59px;
+}
+.sport3show,
+.sport4show {
+  left: 1001px;
+  background-color: #7eb2e2;
+  padding: var(--padding-3xl) 45px;
+}
+.sport4show {
+  left: 1284px;
+  background-color: #e27ede;
+  padding: var(--padding-3xl) 43px;
+}
+.pleasecontactus {
+  position: absolute;
+  top: 2341px;
+  left: 286px;
+  font-size: var(--font-size-6xl);
+}
+.faculty,
+.registration-number,
+.year {
+  position: absolute;
+  top: 76px;
+  left: 13px;
+  display: inline-block;
+  white-space: pre-wrap;
+  width: 236px;
+  height: 33px;
+}
+.faculty,
+.year {
+  top: 137px;
+  width: 179px;
+}
+.year {
+  top: 198px;
+}
+.enterregistrationnumber {
+  top: 76px;
+  left: 263px;
+}
+.enterfaculty,
+.enterregistrationnumber,
+.enteryear {
+  border: 0;
+  outline: 0;
+  font-family: var(--font-arima-madurai);
+  font-size: var(--font-size-3xl);
+  background-color: transparent;
+  position: absolute;
+  font-weight: 700;
+  color: var(--color-dimgray-100);
+  text-align: left;
+}
+.enterfaculty {
+  display: inline-block;
+  top: 137px;
+  left: 131px;
+  width: 240px;
+  height: 33px;
+}
+.enteryear {
+  top: 198px;
+  left: 109px;
+}
+.if-you-are {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-asap-condensed);
+  white-space: pre-wrap;
+  text-align: center;
+}
+.group01 {
+  position: absolute;
+  top: 1458px;
+  left: 308px;
+  width: 380px;
+  height: 234px;
+}
+.userprofile {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 2894px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+  font-family: var(--font-arima-madurai);
+}

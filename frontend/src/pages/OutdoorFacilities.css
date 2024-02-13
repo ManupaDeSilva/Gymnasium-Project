@@ -1,0 +1,529 @@
+.outdoor-facilities1 {
+  position: relative;
+  text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.outdoortopic {
+  position: absolute;
+  top: 307px;
+  left: calc(50% - 421px);
+  border-radius: var(--br-3xs);
+  background-color: rgba(128, 128, 128, 0.48);
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 860px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 6px var(--padding-3xs);
+  text-align: center;
+  font-size: var(--font-size-27xl);
+}
+.leftline-icon,
+.rightline-icon {
+  position: absolute;
+  top: 350px;
+  left: 1389px;
+  max-height: 100%;
+  width: 528px;
+}
+.leftline-icon {
+  left: 0;
+  width: 529px;
+}
+.the-department-of {
+  position: absolute;
+  top: 442px;
+  left: calc(50% - 714.5px);
+  font-size: var(--font-size-3xl);
+  display: inline-block;
+  text-align: center;
+  width: 1430px;
+}
+.facilityslider-icon {
+  position: absolute;
+  top: 598px;
+  left: 43px;
+  width: 1847px;
+  height: 592px;
+  object-fit: cover;
+}
+.availablefacilitiesbackground {
+  position: absolute;
+  top: 1267px;
+  left: calc(50% - 714.5px);
+  border-radius: var(--br-11xl);
+  background: linear-gradient(
+    180deg,
+    #9fcef0 22.81%,
+    rgba(255, 0, 168, 0) 86.87%,
+    rgba(159, 153, 231, 0)
+  );
+  box-shadow: 0 4px 35px 15px rgba(0, 0, 0, 0.25);
+  width: 1430px;
+  height: 959px;
+}
+.availabale-facilities {
+  position: absolute;
+  top: 1328px;
+  left: calc(50% - 286.5px);
+  font-size: var(--font-size-36xl);
+  text-shadow: 4px 4px 5px rgba(0, 0, 0, 0.25);
+}
+.cinder-athletic-track {
+  position: absolute;
+  top: 1486px;
+  left: 553px;
+  display: inline-block;
+  width: 575px;
+  cursor: pointer;
+}
+.linkicon,
+.linkicon1,
+.linkicon2,
+.linkicon3 {
+  position: absolute;
+  top: 1502px;
+  left: 1099px;
+  width: 24px;
+  height: 20px;
+  object-fit: cover;
+}
+.linkicon1,
+.linkicon2,
+.linkicon3 {
+  top: 1614px;
+  left: 1033px;
+}
+.linkicon2,
+.linkicon3 {
+  top: 1746px;
+  left: 1439px;
+}
+.linkicon3 {
+  top: 1871px;
+  left: 1552px;
+}
+.linkicon4,
+.linkicon5,
+.linkicon6,
+.linkicon7,
+.linkicon8,
+.linkicon9 {
+  position: absolute;
+  top: 1990px;
+  left: 1481px;
+  width: 24px;
+  height: 20px;
+  object-fit: cover;
+}
+.linkicon5,
+.linkicon6,
+.linkicon7,
+.linkicon8,
+.linkicon9 {
+  top: 2098px;
+  left: 1606px;
+}
+.linkicon6,
+.linkicon7,
+.linkicon8,
+.linkicon9 {
+  top: 1746px;
+  left: 748px;
+}
+.linkicon7,
+.linkicon8,
+.linkicon9 {
+  top: 1848px;
+  left: 760px;
+}
+.linkicon8,
+.linkicon9 {
+  top: 1971px;
+  left: 809px;
+}
+.linkicon9 {
+  top: 2105px;
+  left: 800px;
+}
+.soccer-rugby {
+  position: absolute;
+  top: 1600px;
+  left: 553px;
+  cursor: pointer;
+}
+.basketball-court,
+.cricket-pitch,
+.tennis-courts,
+.volleyball-courts {
+  position: absolute;
+  top: 1730px;
+  left: 553px;
+  display: inline-block;
+  width: 219px;
+  cursor: pointer;
+}
+.basketball-court,
+.tennis-courts,
+.volleyball-courts {
+  top: 1834px;
+  width: 231px;
+}
+.basketball-court,
+.volleyball-courts {
+  top: 1955px;
+  width: 280px;
+}
+.basketball-court {
+  top: 2089px;
+  width: 271px;
+}
+.athletic-icon,
+.cricket-icon,
+.football-icon {
+  width: 160px;
+  position: relative;
+  height: 72px;
+  object-fit: cover;
+}
+.cricket-icon,
+.football-icon {
+  width: 80px;
+  height: 82px;
+}
+.cricket-icon {
+  width: 88px;
+  height: 109px;
+}
+.basketball-icon,
+.tennis-icon,
+.volleyball-icon {
+  width: 81px;
+  position: relative;
+  height: 75px;
+  object-fit: cover;
+}
+.basketball-icon,
+.volleyball-icon {
+  width: 73px;
+  height: 120px;
+}
+.basketball-icon {
+  width: 75px;
+  height: 96px;
+}
+.gamesiconlist1 {
+  position: absolute;
+  top: 1479px;
+  left: 350px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 26px;
+}
+.hockey-pitch {
+  position: absolute;
+  top: 1730px;
+  left: 1240px;
+  display: inline-block;
+  width: 223px;
+  cursor: pointer;
+}
+.soft-ball-pitches {
+  top: 1976px;
+  width: 265px;
+}
+.general-fitness-area,
+.soft-ball-pitches,
+.swimming-pool-complex {
+  position: absolute;
+  left: 1240px;
+  display: inline-block;
+}
+.swimming-pool-complex {
+  top: 2081px;
+  width: 390px;
+  cursor: pointer;
+}
+.general-fitness-area {
+  top: 1857px;
+  width: 336px;
+}
+.hockey-icon {
+  width: 112px;
+  position: relative;
+  height: 119px;
+  object-fit: cover;
+}
+.fitness-icon,
+.pngwing-1-icon,
+.softball-icon {
+  width: 101.5px;
+  position: relative;
+  height: 101px;
+  object-fit: cover;
+}
+.pngwing-1-icon,
+.softball-icon {
+  width: 98px;
+  height: 107px;
+}
+.pngwing-1-icon {
+  width: 83px;
+  height: 80px;
+}
+.gamesiconlist11 {
+  position: absolute;
+  top: 1696px;
+  left: 1104px;
+  width: 125px;
+  height: 462px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 15px;
+}
+.blank-line1 {
+  margin-block-start: 0;
+  margin-block-end: 7.51px;
+  font-size: var(--font-size-lgi);
+}
+.the-cinder-athletic {
+  margin: 0;
+  font-size: var(--font-size-13xl);
+}
+.discription1 {
+  position: absolute;
+  top: 69px;
+  left: 835px;
+  display: inline-block;
+  width: 863px;
+ 
+}
+.topicimg1-icon {
+  position: absolute;
+  top: 83px;
+  left: 57px;
+  border-radius: var(--br-22xl);
+  width: 728px;
+  height: 575px;
+  object-fit: cover;
+}
+.topic1 {
+  position: absolute;
+  top: 2376px;
+  left: calc(50% - 869.5px);
+  border-radius: var(--br-11xl);
+  background: linear-gradient(180deg, #fff 29.8%, rgba(255, 255, 255, 0));
+  box-shadow: 0 4px 36px 24px rgba(0, 0, 0, 0.25);
+  width: 1739px;
+  height: 740px;
+  overflow: hidden;
+  text-align: justify;
+  font-size: var(--font-size-31xl);
+}
+.discription2 {
+  position: absolute;
+  top: 62px;
+  left: 847px;
+  display: inline-block;
+  width: 846px;
+  
+  
+}
+.topicimg2-icon {
+  position: absolute;
+  top: 82px;
+  left: 57px;
+  border-radius: var(--br-22xl);
+  width: 728px;
+  height: 575px;
+  object-fit: cover;
+}
+.topic2 {
+  position: absolute;
+  top: 3155px;
+  left: calc(50% - 869.5px);
+  border-radius: var(--br-11xl);
+  background: linear-gradient(180deg, #fff 30.35%, rgba(255, 255, 255, 0));
+  box-shadow: 0 4px 36px 24px rgba(0, 0, 0, 0.25);
+  width: 1739px;
+  height: 740px;
+  overflow: hidden;
+  text-align: justify;
+  font-size: var(--font-size-31xl);
+}
+.cricket-ground {
+  margin-block-start: 0;
+  margin-block-end: 7.51px;
+}
+.discription3 {
+  position: absolute;
+  top: 83px;
+  left: 854px;
+  display: inline-block;
+  width: 826px;
+  
+}
+.topic3 {
+  position: absolute;
+  top: 3955px;
+  left: calc(50% - 869.5px);
+  border-radius: var(--br-11xl);
+  background: linear-gradient(180deg, #fff 14.17%, rgba(255, 255, 255, 0));
+  box-shadow: 0 4px 36px 24px rgba(0, 0, 0, 0.25);
+  width: 1739px;
+  height: 740px;
+  overflow: hidden;
+  text-align: justify;
+  font-size: var(--font-size-31xl);
+}
+.discription4 {
+  position: absolute;
+  top: 83px;
+  left: 870px;
+  display: inline-block;
+  width: 826px;
+ 
+}
+.topic4,
+.topic5,
+.topic6 {
+  position: absolute;
+  top: 4816px;
+  left: calc(50% - 869.5px);
+  border-radius: var(--br-11xl);
+  background: linear-gradient(180deg, #fff 14.17%, rgba(255, 255, 255, 0));
+  box-shadow: 0 4px 36px 24px rgba(0, 0, 0, 0.25);
+  width: 1739px;
+  height: 740px;
+  overflow: hidden;
+  text-align: justify;
+  font-size: var(--font-size-31xl);
+}
+.topic5,
+.topic6 {
+  top: 5677px;
+}
+.topic6 {
+  top: 6538px;
+}
+.discription7 {
+  position: absolute;
+  top: 83px;
+  left: 841px;
+  display: inline-block;
+  width: 826px;
+
+}
+.topic7 {
+  position: absolute;
+  top: 7399px;
+  left: calc(50% - 846.5px);
+  border-radius: var(--br-11xl);
+  background: linear-gradient(180deg, #fff 14.17%, rgba(255, 255, 255, 0));
+  box-shadow: 0 4px 36px 24px rgba(0, 0, 0, 0.25);
+  width: 1724px;
+  height: 740px;
+  overflow: hidden;
+  text-align: justify;
+  font-size: var(--font-size-31xl);
+}
+.discription8 {
+  position: absolute;
+  top: 83px;
+  left: 833px;
+  display: inline-block;
+  width: 826px;
+ 
+}
+.topic8 {
+  position: absolute;
+  top: 8260px;
+  left: calc(50% - 846.5px);
+  border-radius: var(--br-11xl);
+  background: linear-gradient(180deg, #fff 14.17%, rgba(255, 255, 255, 0));
+  box-shadow: 0 4px 36px 24px rgba(0, 0, 0, 0.25);
+  width: 1724px;
+  height: 740px;
+  overflow: hidden;
+  text-align: justify;
+  font-size: var(--font-size-31xl);
+}
+.back-to-home {
+  position: relative;
+  z-index: 0;
+}
+.backtohomearrow-icon {
+  width: 70.5px;
+  position: absolute;
+  margin: 0 !important;
+  top: 53px;
+  left: calc(50% - 35.5px);
+  height: 9.5px;
+  object-fit: contain;
+  z-index: 1;
+}
+.backtohomebutton {
+  position: absolute;
+  top: 9131px;
+  left: 839px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  cursor: pointer;
+  font-size: 39px;
+  font-family: var(--font-odor-mean-chey);
+}
+.check-or-book {
+  position: absolute;
+  top: 9067px;
+  left: 115px;
+  font-size: var(--font-size-15xl);
+}
+.gototopicon {
+  width: 54px;
+  height: 55px;
+  object-fit: cover;
+}
+.gototop1,
+.gototopicon {
+  position: relative;
+}
+.gototop {
+  position: absolute;
+  top: 9146px;
+  left: 1782px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  cursor: pointer;
+  font-size: var(--font-size-6xl);
+}
+.outdoorfacilities {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-silver-200);
+  height: 9681px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-arima-madurai);
+}
+
+.bookingbutton3{
+
+  position: relative;
+  top: 637px;
+  left: 1494px;
+  display: flex;
+  cursor: pointer;
+}

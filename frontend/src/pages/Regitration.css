@@ -1,0 +1,408 @@
+.loginbackground1 {
+  position: absolute;
+  top: 385px;
+  left: 892px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro-100);
+  box-shadow: 0 0 35px 17px rgba(0, 0, 0, 0.25);
+  width: 869px;
+  height: 975px;
+}
+.faculty-of-physical1 {
+  position: absolute;
+  top: 1371px;
+  left: 969px;
+  font-family: var(--font-inder);
+}
+.passwordtopback1,
+.usernametopback1 {
+  position: absolute;
+  top: 708px;
+  left: 1028px;
+  background-color: var(--color-gainsboro-100);
+  width: 104px;
+  height: 16px;
+}
+.passwordtopback1 {
+  top: 829px;
+  left: 1030px;
+  width: 99px;
+}
+.contactus1 {
+  position: absolute;
+  top: 1303px;
+  left: 1199px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-inder);
+  color: var(--color-dimgray-200);
+  display: inline-block;
+  width: 278px;
+  height: 29px;
+}
+.loginimage-icon1 {
+  position: absolute;
+  top: 504px;
+  left: 151px;
+  width: 596px;
+  height: 660px;
+  object-fit: cover;
+}
+.registration-form {
+  position: absolute;
+  top: 418px;
+  left: 1061px;
+  font-size: var(--font-size-45xl);
+  display: inline-block;
+  width: 557px;
+  height: 98px;
+  text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.25);
+}
+.contact-number,
+.first-name,
+.password,
+.re-enter-password {
+  position: absolute;
+  top: 580px;
+  left: 957px;
+  display: inline-block;
+  width: 116px;
+  height: 33px;
+}
+.contact-number,
+.password,
+.re-enter-password {
+  top: 813px;
+  left: 959px;
+  width: 170px;
+}
+.password,
+.re-enter-password {
+  top: 910px;
+}
+.re-enter-password {
+  top: 1007px;
+  width: 196px;
+}
+.academic-staff,
+.non-academic,
+.outsider,
+.student {
+  position: absolute;
+  top: 1043px;
+  left: 1367px;
+  font-size: var(--font-size-lg);
+}
+.non-academic,
+.outsider,
+.student {
+  top: 1007px;
+  left: 1544px;
+}
+.outsider,
+.student {
+  top: 1043px;
+}
+.student {
+  top: 1007px;
+  left: 1368px;
+}
+.address,
+.email-address,
+.last-name,
+.which-sport-and {
+  position: absolute;
+  top: 812px;
+  left: 1339px;
+  display: inline-block;
+  width: 342px;
+  height: 72px;
+}
+.address,
+.email-address,
+.last-name {
+  top: 580px;
+  width: 116px;
+  height: 33px;
+}
+.address,
+.email-address {
+  top: 673px;
+  left: 959px;
+  width: 146px;
+}
+.address {
+  left: 1339px;
+}
+.line01-icon {
+  position: absolute;
+  top: 645.8px;
+  left: 957px;
+  max-height: 100%;
+  width: 333px;
+}
+.line02-icon,
+.line03-icon,
+.line04-icon,
+.line05-icon {
+  position: absolute;
+  top: 880.5px;
+  left: 959px;
+  max-height: 100%;
+  width: 333px;
+}
+.line02-icon,
+.line03-icon,
+.line04-icon {
+  top: 646px;
+  left: 1339px;
+}
+.line03-icon,
+.line04-icon {
+  top: 738px;
+  left: 959px;
+}
+.line04-icon {
+  left: 1339px;
+}
+.line04-2-icon,
+.line05-icon1,
+.line06-2-icon,
+.line06-icon,
+.line07-icon {
+  position: absolute;
+  top: 923px;
+  left: 1339px;
+  max-height: 100%;
+  width: 333px;
+}
+.line04-2-icon,
+.line05-icon1,
+.line06-2-icon,
+.line07-icon {
+  top: 771px;
+}
+.line05-icon1,
+.line06-2-icon,
+.line07-icon {
+  top: 963px;
+}
+.line05-icon1,
+.line07-icon {
+  top: 978px;
+  left: 959px;
+  width: 335px;
+}
+.line07-icon {
+  top: 1068px;
+}
+.contatctinput,
+.passwordinput,
+.re-enterpasswordinput,
+.sportinputline1,
+.sportinputline2 {
+  border: 0;
+  outline: 0;
+  display: inline-block;
+  font-family: var(--font-arima-madurai);
+  font-size: var(--font-size-base);
+  background-color: transparent;
+  position: absolute;
+  top: 1044px;
+  left: 959px;
+  font-weight: 700;
+  color: var(--color-dimgray-500);
+  text-align: left;
+  width: 331px;
+  height: 19px;
+}
+.contatctinput,
+.passwordinput,
+.sportinputline1,
+.sportinputline2 {
+  top: 954px;
+}
+.contatctinput,
+.sportinputline1,
+.sportinputline2 {
+  top: 937px;
+  left: 1339px;
+}
+.contatctinput,
+.sportinputline1 {
+  top: 896px;
+}
+.contatctinput {
+  top: 857px;
+  left: 959px;
+}
+.adressinput,
+.cityinput {
+  font-family: var(--font-arima-madurai);
+  left: 1339px;
+}
+.cityinput {
+  border: 0;
+  outline: 0;
+  display: inline-block;
+  font-size: var(--font-size-base);
+  background-color: transparent;
+  position: absolute;
+  top: 747px;
+  font-weight: 700;
+  color: var(--color-dimgray-500);
+  text-align: left;
+  width: 331px;
+  height: 19px;
+}
+.adressinput {
+  top: 712px;
+}
+.adressinput,
+.emailinput,
+.lastnameinput {
+  border: 0;
+  outline: 0;
+  display: inline-block;
+  font-size: var(--font-size-base);
+  background-color: transparent;
+  position: absolute;
+  font-weight: 700;
+  color: var(--color-dimgray-500);
+  text-align: left;
+  width: 331px;
+  height: 19px;
+}
+.emailinput {
+  font-family: var(--font-arima-madurai);
+  top: 712px;
+  left: 959px;
+}
+.lastnameinput {
+  top: 621px;
+  left: 1339px;
+}
+.firstnameinput,
+.lastnameinput,
+.sign-up {
+  font-family: var(--font-arima-madurai);
+}
+.firstnameinput {
+  border: 0;
+  outline: 0;
+  display: inline-block;
+  font-size: var(--font-size-base);
+  background-color: transparent;
+  position: absolute;
+  top: 621px;
+  left: 957px;
+  font-weight: 700;
+  color: var(--color-dimgray-500);
+  text-align: left;
+  width: 331px;
+  height: 19px;
+}
+.sign-up {
+  position: relative;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  text-align: center;
+}
+.signup {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs);
+  background-color: transparent;
+  position: absolute;
+  top: 1133px;
+  left: 1253px;
+  border-radius: var(--br-xl);
+  background: linear-gradient(180deg, #ef5da3, #5d7def);
+  box-shadow: 0 0 21px 5px rgba(0, 0, 0, 0.25);
+  width: 147px;
+  height: 65px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.already-have-an {
+  top: 1248px;
+  left: 1153px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  color: #252525;
+  text-align: center;
+  width: 295px;
+  height: 29px;
+}
+.already-have-an,
+.gender,
+.login1 {
+  position: absolute;
+}
+.login1 {
+  top: 1246px;
+  left: 1414px;
+  text-decoration: underline;
+  display: inline-block;
+  color: #506cb6;
+  text-align: center;
+  width: 78px;
+  height: 23px;
+  cursor: pointer;
+}
+.gender {
+  top: 758px;
+  left: 959px;
+  background-color: transparent;
+  border: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  font-family: var(--font-arima-madurai);
+  font-weight: 700;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+}
+.checkbox1,
+.checkbox2,
+.checkbox3,
+.checkbox4 {
+  margin: 0;
+  position: absolute;
+  top: 1012px;
+  left: 1339px;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 18px;
+  height: 18px;
+}
+.checkbox2,
+.checkbox3,
+.checkbox4 {
+  top: 1048px;
+}
+.checkbox2,
+.checkbox4 {
+  top: 1013px;
+  left: 1516px;
+}
+.checkbox4 {
+  top: 1048px;
+}
+.regitration {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-30xl);
+  background-color: var(--color-silver-200);
+  height: 1863px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+  font-family: var(--font-arima-madurai);
+}

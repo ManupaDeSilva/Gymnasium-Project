@@ -1,0 +1,260 @@
+.uopname-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 370px;
+  height: 260px;
+  object-fit: cover;
+}
+.department-of-physical1 {
+  margin-block-start: 0;
+  margin-block-end: 7.51px;
+  font-weight: 600;
+}
+.university-of-peradeniya2 {
+  margin: 0;
+  font-size: var(--font-size-15xl-1);
+}
+.department-of-physical-container1 {
+  position: absolute;
+  top: 73px;
+  left: calc(50% - 353.5px);
+  display: inline-block;
+  width: 1117.3px;
+  height: 129.8px;
+  backdrop-filter: blur(2.73px);
+  text-shadow: 0.7px 0 0#000, 0 0.7px 0#000, -0.7px 0 0#000, 0-0.7px 0#000;
+}
+.headerback {
+  position: absolute;
+  top: 0;
+  left: 370px;
+  background-color: var(--color-khaki);
+  width: 1547px;
+  height: 259px;
+}
+.unilogo-icon1 {
+  position: absolute;
+  top: 8px;
+  left: calc(50% + 149.5px);
+  width: 69.1px;
+  height: 69.8px;
+  object-fit: cover;
+}
+.log-in {
+  position: relative;
+  font-size: var(--font-size-xl-5);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+}
+.loginback,
+.signupback {
+  cursor: pointer;
+  border: 0;
+  background-color: var(--color-goldenrod);
+  width: 143.4px;
+  border-radius: 6.83px;
+  height: 54.6px;
+  overflow: hidden;
+}
+.loginback {
+  padding: 8.878161430358887px 27.317419052124023px;
+  position: absolute;
+  top: 196px;
+  left: 1762px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.signupback {
+  padding: 0;
+  flex-shrink: 0;
+  z-index: 0;
+}
+.sign-up1 {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 76px;
+  margin: 0 !important;
+  top: 15px;
+  left: 33.5px;
+  font-size: var(--font-size-xl-5);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  z-index: 1;
+}
+.sign-up1,
+.signup1,
+.special-programmes1 {
+  cursor: pointer;
+  position: absolute;
+}
+.signup1 {
+  top: 196px;
+  left: 1611px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.special-programmes1 {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 220.7px;
+  left: 1399.6px;
+  font-size: var(--font-size-mid-9);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 194.2px;
+}
+.naviback {
+  position: absolute;
+  top: -0.7px;
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  width: 1207.4px;
+  height: 41px;
+  display: none;
+}
+.about-us,
+.home {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 12px;
+  left: 18px;
+  font-size: var(--font-size-mid-1);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-gray-300);
+  text-align: left;
+  display: inline-block;
+  width: 57.4px;
+  height: 17.1px;
+}
+.about-us {
+  top: 11.6px;
+  left: 91.5px;
+  color: var(--color-black);
+  width: 80.6px;
+}
+.registration {
+  top: 11.6px;
+  left: 192.6px;
+  width: 99px;
+  height: 17.1px;
+}
+.booking1,
+.locker-system,
+.payments,
+.registration,
+.sports3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  font-size: var(--font-size-mid-1);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.payments {
+  top: 11.6px;
+  left: 312.1px;
+  width: 83.3px;
+  height: 17.1px;
+}
+.booking1,
+.locker-system,
+.sports3 {
+  top: 12px;
+  left: 415px;
+}
+.locker-system,
+.sports3 {
+  top: 13px;
+  left: 502px;
+  width: 59.4px;
+  height: 17.1px;
+}
+.locker-system {
+  top: 12px;
+  left: 581px;
+  width: 125.7px;
+  height: 16.4px;
+}
+.facilities2 {
+  top: 12px;
+  left: 726px;
+  width: 78.5px;
+  height: 17.1px;
+}
+.classes,
+.events,
+.facilities2,
+.special-programmes2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  font-size: var(--font-size-mid-1);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.events {
+  top: 13px;
+  left: 826px;
+  width: 62px;
+  height: 17px;
+}
+.classes,
+.special-programmes2 {
+  top: 12px;
+  left: 913px;
+  width: 72.4px;
+}
+.special-programmes2 {
+  top: 11px;
+  left: 1010px;
+  font-size: var(--font-size-mid-9);
+  width: 194.2px;
+}
+.navigationbar {
+  position: absolute;
+  top: 203px;
+  left: 378px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 1218px;
+  height: 48px;
+  overflow: hidden;
+}
+.headerbeforelog {
+  width: 1917px;
+  height: 259.5px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-42xl-5);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

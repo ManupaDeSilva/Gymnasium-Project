@@ -1,0 +1,347 @@
+.locker11back-icon {
+  position: absolute;
+  top: 260px;
+  left: 0;
+  width: 1917px;
+  height: 940px;
+  object-fit: cover;
+}
+.karate5 {
+  position: relative;
+  font-weight: 900;
+  text-shadow: 4px 0 0#000, 0 4px 0#000, -4px 0 0#000, 0-4px 0#000;
+}
+.karatetopic {
+  position: absolute;
+  top: 322px;
+  left: calc(50% - 141.5px);
+  border-radius: var(--br-lgi);
+  background-color: var(--color-dimgray-600);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-6xl) 0;
+  font-size: var(--font-size-46xl);
+}
+.boxing-mat2,
+.equipments19,
+.locker-11 {
+  position: absolute;
+  top: 274px;
+  left: 23px;
+  font-weight: 900;
+  text-shadow: 2px 0 0#000, 0 2px 0#000, -2px 0 0#000, 0-2px 0#000;
+}
+.boxing-mat2,
+.equipments19 {
+  top: 453px;
+  left: 384px;
+  font-size: var(--font-size-31xl);
+}
+.boxing-mat2 {
+  left: 1293px;
+}
+.available-number-of29,
+.available-number-of30,
+.available-number-of31,
+.today-available-times18 {
+  position: absolute;
+  font-size: var(--font-size-16xl);
+  font-weight: 900;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.available-number-of29 {
+  top: 556px;
+  left: 234px;
+  white-space: pre-wrap;
+}
+.available-number-of30,
+.available-number-of31,
+.today-available-times18 {
+  top: 739px;
+  left: 267px;
+}
+.available-number-of31,
+.today-available-times18 {
+  top: 939px;
+}
+.today-available-times18 {
+  top: 552px;
+  left: 1243px;
+}
+.div29 {
+  position: relative;
+  font-weight: 900;
+}
+.bacsketballsavailable29,
+.bacsketballsavailable30 {
+  left: 462px;
+  background-color: var(--color-white);
+  width: 92px;
+  flex-direction: column;
+  padding: var(--padding-3xs) var(--padding-xs) var(--padding-6xs);
+  color: var(--color-black);
+}
+.bacsketballsavailable29 {
+  position: absolute;
+  top: 626px;
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  height: 79px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.bacsketballsavailable30 {
+  top: 820px;
+  height: 78px;
+}
+.bacsketballsavailable30,
+.bacsketballsavailable31,
+.courttimeslots35 {
+  position: absolute;
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.bacsketballsavailable31 {
+  top: 1009px;
+  left: 462px;
+  background-color: var(--color-white);
+  width: 92px;
+  height: 78px;
+  flex-direction: column;
+  padding: var(--padding-3xs) var(--padding-xs) var(--padding-6xs);
+  color: var(--color-black);
+}
+.courttimeslots35 {
+  top: 648px;
+  left: 1143px;
+  background-color: var(--color-gray-400);
+  width: 559px;
+  height: 380px;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  font-size: var(--font-size-6xl);
+}
+.what-to-expect19 {
+  margin: 0;
+}
+.expert-instruction-our {
+  margin-bottom: 0;
+}
+.expert-instruction-our-highly {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-14xl);
+}
+.karatediscription1,
+.what-to-expect-container1 {
+  position: absolute;
+  display: inline-block;
+  color: var(--color-black);
+}
+.what-to-expect-container1 {
+  top: 2556px;
+  left: calc(50% - 768.5px);
+  font-size: var(--font-size-6xl);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  text-align: justify;
+  width: 1537px;
+  height: 790px;
+}
+.karatediscription1 {
+  top: 1323px;
+  left: calc(50% - 800.5px);
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inria-serif);
+  text-align: center;
+  width: 1582px;
+  height: 150px;
+}
+.schedule20 {
+  position: relative;
+}
+.dates19,
+.times19 {
+  position: absolute;
+  top: 22px;
+  left: 152px;
+}
+.times19 {
+  left: 613px;
+}
+.border-icon95,
+.event-description19 {
+  position: absolute;
+  top: 22px;
+  left: 1095px;
+}
+.border-icon95 {
+  left: 428px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 638px;
+}
+.border-icon96,
+.border-icon97,
+.border-icon98 {
+  position: absolute;
+  top: 102px;
+  left: 22px;
+  max-height: 100%;
+  width: 387.5px;
+}
+.border-icon97,
+.border-icon98 {
+  left: 460px;
+}
+.border-icon98 {
+  left: 958px;
+  width: 551px;
+}
+.border-icon99 {
+  position: absolute;
+  top: 22px;
+  left: 918.9px;
+  width: 2.1px;
+  height: 638px;
+  object-fit: contain;
+}
+.am-4oo38,
+.am-4oo39,
+.monday19,
+.tuesday19 {
+  position: absolute;
+  top: 179px;
+  left: 127px;
+  display: inline-block;
+  width: 177px;
+  height: 53px;
+}
+.am-4oo38,
+.am-4oo39,
+.tuesday19 {
+  left: 501px;
+  width: 371px;
+}
+.am-4oo39,
+.tuesday19 {
+  top: 288px;
+}
+.tuesday19 {
+  left: 127px;
+  width: 177px;
+}
+.practices38,
+.practices39 {
+  position: absolute;
+  top: 179px;
+  left: 1149px;
+}
+.practices39 {
+  top: 288px;
+}
+.updatebutton {
+  cursor: pointer;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-inika);
+  font-size: var(--font-size-xl);
+  background-color: var(--color-darkgray-100);
+  border-radius: var(--br-11xl);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-lg);
+  color: var(--color-black);
+}
+.dateinput39,
+.timeinput19 {
+  position: absolute;
+  top: 557px;
+  background-color: var(--color-gainsboro-100);
+  height: 92px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.dateinput39 {
+  left: 46px;
+  width: 343px;
+  overflow: hidden;
+  padding: var(--padding-mid) var(--padding-13xl) var(--padding-mid)
+    var(--padding-193xl);
+  box-sizing: border-box;
+}
+.timeinput19 {
+  left: 501px;
+  width: 371px;
+  padding: var(--padding-mid) var(--padding-13xl) var(--padding-mid)
+    var(--padding-210xl);
+}
+.dateinput40,
+.scheduletable19,
+.timeinput19 {
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.dateinput40 {
+  position: absolute;
+  top: 557px;
+  left: 982px;
+  background-color: var(--color-gainsboro-100);
+  width: 496px;
+  height: 92px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mid) var(--padding-13xl) var(--padding-mid)
+    var(--padding-320xl);
+}
+.scheduletable19 {
+  width: 1550px;
+  position: relative;
+  border: 1px solid var(--color-black);
+  height: 689px;
+  flex-shrink: 0;
+  font-size: var(--font-size-22xl);
+}
+.sheduletable19 {
+  position: absolute;
+  top: 1580px;
+  left: 184px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-60xl);
+  font-size: var(--font-size-51xl);
+  color: var(--color-black);
+  font-family: var(--font-inika);
+}
+.karate4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 3800px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-26xl);
+  color: var(--color-white);
+  font-family: var(--font-arima-madurai);
+}
+.bookingbutton1{
+  position: absolute;
+  left: 754px;
+  top: 1118px;
+
+}

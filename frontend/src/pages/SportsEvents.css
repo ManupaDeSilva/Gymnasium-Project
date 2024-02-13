@@ -1,0 +1,117 @@
+.slugimg-icon {
+  position: absolute;
+  top: 260px;
+  left: -1px;
+  width: 1918px;
+  height: 644px;
+  object-fit: cover;
+}
+.slug-2023 {
+  position: absolute;
+  top: 968px;
+  left: calc(50% - 263.5px);
+  font-size: 96px;
+  font-family: var(--font-kadwa);
+  color: #410606;
+}
+.slugdiscription01,
+.slugdiscription02 {
+  position: absolute;
+  left: calc(50% - 807.5px);
+}
+.slugdiscription01 {
+  top: 1162px;
+  font-weight: 500;
+  color: #140505;
+  display: inline-block;
+  width: 1603px;
+  height: 73px;
+}
+.slugdiscription02 {
+  top: 1296px;
+  color: #d64040;
+}
+.mens-team-of {
+  margin: 0;
+}
+.slugdiscription03 {
+  position: absolute;
+  top: 1363px;
+  left: calc(50% - 807.5px);
+  font-weight: 500;
+  display: inline-block;
+  width: 1603px;
+  height: 276px;
+}
+.the-tournament-showcased {
+  margin-block-start: 0;
+  margin-block-end: 2.73px;
+}
+.wushudiscription {
+  position: absolute;
+  top: 2553px;
+  left: calc(50% - 794.5px);
+  font-weight: 500;
+  display: inline-block;
+  width: 1610px;
+  height: 813px;
+}
+.wushutopic {
+  position: absolute;
+  top: 2375px;
+  left: calc(50% - 782.5px);
+  font-size: var(--font-size-41xl);
+  font-family: var(--font-kadwa);
+  text-align: left;
+}
+.wushuimg-icon {
+  position: absolute;
+  top: 1739px;
+  left: 0;
+  width: 1917px;
+  height: 496px;
+  object-fit: cover;
+}
+.upcoming-events2 {
+  position: relative;
+  font-weight: 500;
+}
+.upcomingfield2,
+.upcomingtopic2 {
+  position: absolute;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+}
+.upcomingtopic2 {
+  top: 3621px;
+  left: calc(50% - 332.5px);
+  border-radius: var(--br-xl);
+  background-color: var(--color-firebrick-100);
+  width: 665px;
+  height: 92px;
+  overflow: hidden;
+  font-size: var(--font-size-31xl);
+  font-family: var(--font-jura);
+}
+.upcomingfield2 {
+  top: 3802px;
+  left: calc(50% - 761.5px);
+  border: 1px solid var(--color-black);
+  width: 1522px;
+  height: 617px;
+}
+.sportsevents {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 4900px;
+  overflow: hidden;
+  text-align: justify;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

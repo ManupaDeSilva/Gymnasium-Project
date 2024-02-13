@@ -1,0 +1,15 @@
+.bookimg-icon1 {
+  width: 196px;
+  position: relative;
+  border-radius: var(--br-97xl);
+  height: 73px;
+  object-fit: cover;
+}
+.bookbuttonsmall {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+  cursor: pointer;
+}

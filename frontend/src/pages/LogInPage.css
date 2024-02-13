@@ -1,0 +1,190 @@
+.loginbackground {
+  position: absolute;
+  top: 370px;
+  left: 890px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro-100);
+  box-shadow: 0 0 35px 17px rgba(0, 0, 0, 0.25);
+  width: 869px;
+  height: 975px;
+}
+.log-in-to {
+  position: absolute;
+  top: 632px;
+  left: calc(50% + 237.5px);
+  font-family: var(--font-kadwa);
+}
+.faculty-of-physical {
+  position: absolute;
+  top: 1364px;
+  left: 969px;
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-inder);
+}
+.log-in-your,
+.welcome1 {
+  position: absolute;
+  display: inline-block;
+}
+.log-in-your {
+  top: 461px;
+  left: calc(50% + 45.5px);
+  font-size: var(--font-size-51xl);
+  width: 638px;
+  height: 90px;
+  text-shadow: 5px 5px 4px rgba(0, 0, 0, 0.25);
+}
+.welcome1 {
+  top: 551px;
+  left: 1254px;
+  font-size: var(--font-size-16xl);
+  color: #3f4fe0;
+  width: 158px;
+  height: 45px;
+}
+.usernameframe {
+  top: 708.5px;
+  left: 972.5px;
+  border-radius: var(--br-xl);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 683px;
+  height: 62px;
+}
+.passwordframe,
+.passwordtopback,
+.usernameframe,
+.usernametopback {
+  position: absolute;
+  background-color: var(--color-gainsboro-100);
+}
+.passwordframe {
+  top: 826.5px;
+  left: 972.5px;
+  border-radius: var(--br-xl);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 683px;
+  height: 62px;
+}
+.passwordtopback,
+.usernametopback {
+  top: 701px;
+  left: 1028px;
+  width: 104px;
+  height: 16px;
+}
+.passwordtopback {
+  top: 822px;
+  left: 1030px;
+  width: 99px;
+}
+.passwordsmall,
+.usernamesmall {
+  position: absolute;
+  top: 693px;
+  left: 1032px;
+  display: inline-block;
+  width: 100px;
+  height: 21px;
+}
+.passwordsmall {
+  top: 813px;
+  left: 1034px;
+  width: 94px;
+}
+.passwordfield,
+.usernamefield {
+  border: 0;
+  outline: 0;
+  display: inline-block;
+  font-family: var(--font-arima-madurai);
+  font-size: var(--font-size-xl);
+  background-color: transparent;
+  position: absolute;
+  font-weight: 700;
+  color: var(--color-black);
+  text-align: left;
+  width: 614px;
+  height: 25px;
+}
+.usernamefield {
+  top: 727px;
+  left: 1033px;
+  white-space: pre-wrap;
+}
+.passwordfield {
+  top: 848px;
+  left: 1034px;
+}
+.dont-have-an {
+  top: 1070px;
+  left: 1233px;
+  font-size: var(--font-size-lg);
+  width: 199px;
+  height: 29px;
+}
+.contactus,
+.dont-have-an,
+.registerbutton {
+  position: absolute;
+  display: inline-block;
+}
+.registerbutton {
+  top: 1108px;
+  left: 1175px;
+  font-size: var(--font-size-6xl);
+  text-decoration: underline;
+  color: #1e499e;
+  width: 327px;
+  height: 40px;
+  cursor: pointer;
+}
+.contactus {
+  top: 1296px;
+  left: 1199px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-inder);
+  color: var(--color-dimgray-200);
+  width: 278px;
+  height: 29px;
+}
+.loginimage-icon {
+  position: absolute;
+  top: 497px;
+  left: 151px;
+  width: 596px;
+  height: 660px;
+  object-fit: cover;
+}
+.login {
+  position: relative;
+  text-shadow: 3px 3px 4px rgba(0, 0, 0, 0.25);
+}
+.loginbutton {
+  position: absolute;
+  top: 960px;
+  left: calc(50% + 245.5px);
+  border-radius: var(--br-11xl);
+  background: linear-gradient(90deg, #ff3c3c, #626f9a);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 4px 84px;
+  cursor: pointer;
+  font-size: var(--font-size-11xl);
+}
+.loginpage {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-30xl);
+  background-color: var(--color-silver-200);
+  height: 1882px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-arima-madurai);
+}

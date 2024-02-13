@@ -1,0 +1,324 @@
+.locker12back-icon {
+  position: absolute;
+  top: 260px;
+  left: 0;
+  width: 1917px;
+  height: 879px;
+  object-fit: cover;
+}
+.table-tennis {
+  position: relative;
+  font-weight: 900;
+  text-shadow: 4px 0 0#000, 0 4px 0#000, -4px 0 0#000, 0-4px 0#000;
+}
+.tabletennistopic {
+  position: absolute;
+  top: 322px;
+  left: calc(50% - 233.5px);
+  border-radius: var(--br-lgi);
+  background-color: var(--color-dimgray-600);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-6xl) 0;
+  font-size: var(--font-size-46xl);
+}
+.court9,
+.equipments10,
+.locker-12 {
+  position: absolute;
+  top: 274px;
+  left: 23px;
+  font-weight: 900;
+  text-shadow: 2px 0 0#000, 0 2px 0#000, -2px 0 0#000, 0-2px 0#000;
+}
+.court9,
+.equipments10 {
+  top: 453px;
+  left: 384px;
+  font-size: var(--font-size-31xl);
+}
+.court9 {
+  top: 455px;
+  left: 1328px;
+}
+.available-number-of13,
+.available-number-of14,
+.today-available-times9 {
+  position: absolute;
+  top: 552px;
+  left: 313px;
+  font-size: var(--font-size-16xl);
+  font-weight: 900;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.available-number-of14,
+.today-available-times9 {
+  top: 735px;
+}
+.today-available-times9 {
+  top: 552px;
+  left: 1243px;
+}
+.div13 {
+  position: relative;
+  font-weight: 900;
+}
+.bacsketballsavailable13 {
+  top: 626px;
+  left: 462px;
+  background-color: var(--color-white);
+  width: 92px;
+  height: 79px;
+  flex-direction: column;
+  padding: var(--padding-3xs) var(--padding-xs) var(--padding-6xs);
+  color: var(--color-black);
+}
+.bacsketballsavailable13,
+.bacsketballsavailable14,
+.courttimeslots18,
+.courttimeslots19 {
+  position: absolute;
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.bacsketballsavailable14 {
+  top: 820px;
+  left: 472px;
+  background-color: var(--color-white);
+  width: 92px;
+  height: 79px;
+  flex-direction: column;
+  padding: var(--padding-3xs) var(--padding-xs) var(--padding-6xs);
+  color: var(--color-black);
+}
+.courttimeslots18,
+.courttimeslots19 {
+  top: 648px;
+  left: 1161px;
+  background-color: var(--color-gray-400);
+  width: 559px;
+  height: 380px;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  font-size: var(--font-size-6xl);
+}
+.courttimeslots19 {
+  top: 939px;
+  left: 263px;
+  height: 120px;
+}
+.tabletennisdiscription1 {
+  position: absolute;
+  top: 1327px;
+  left: calc(50% - 793.5px);
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  font-family: var(--font-inria-serif);
+  color: var(--color-black);
+  text-align: center;
+  width: 1582px;
+  height: 150px;
+}
+.table-time-our {
+  margin: 0;
+}
+.tabletennisdiscription2 {
+  position: absolute;
+  top: 2556px;
+  left: calc(50% - 786.5px);
+  font-size: var(--font-size-6xl);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: justify;
+  display: inline-block;
+  width: 1537px;
+  height: 682px;
+}
+.schedule10 {
+  position: relative;
+}
+.dates9,
+.times9 {
+  position: absolute;
+  top: 22px;
+  left: 152px;
+}
+.times9 {
+  left: 613px;
+}
+.border-icon45,
+.event-description9 {
+  position: absolute;
+  top: 22px;
+  left: 1095px;
+}
+.border-icon45 {
+  left: 428px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 638px;
+}
+.border-icon46,
+.border-icon47,
+.border-icon48 {
+  position: absolute;
+  top: 102px;
+  left: 22px;
+  max-height: 100%;
+  width: 387.5px;
+}
+.border-icon47,
+.border-icon48 {
+  left: 460px;
+}
+.border-icon48 {
+  left: 958px;
+  width: 551px;
+}
+.border-icon49 {
+  position: absolute;
+  top: 22px;
+  left: 918.9px;
+  width: 2.1px;
+  height: 638px;
+  object-fit: contain;
+}
+.am-4oo18,
+.am-4oo19,
+.monday9,
+.tuesday9 {
+  position: absolute;
+  top: 179px;
+  left: 127px;
+  display: inline-block;
+  width: 177px;
+  height: 53px;
+}
+.am-4oo18,
+.am-4oo19,
+.tuesday9 {
+  left: 501px;
+  width: 371px;
+}
+.am-4oo19,
+.tuesday9 {
+  top: 288px;
+}
+.tuesday9 {
+  left: 127px;
+  width: 177px;
+}
+.practices18,
+.practices19 {
+  position: absolute;
+  top: 179px;
+  left: 1149px;
+}
+.practices19 {
+  top: 288px;
+}
+.updatebutton {
+  cursor: pointer;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-inika);
+  font-size: var(--font-size-xl);
+  background-color: var(--color-darkgray-100);
+  border-radius: var(--br-11xl);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-lg);
+  color: var(--color-black);
+}
+.dateinput19,
+.timeinput9 {
+  position: absolute;
+  top: 557px;
+  background-color: var(--color-gainsboro-100);
+  height: 92px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.dateinput19 {
+  left: 46px;
+  width: 343px;
+  overflow: hidden;
+  padding: var(--padding-mid) var(--padding-13xl) var(--padding-mid)
+    var(--padding-193xl);
+  box-sizing: border-box;
+}
+.timeinput9 {
+  left: 501px;
+  width: 371px;
+  padding: var(--padding-mid) var(--padding-13xl) var(--padding-mid)
+    var(--padding-210xl);
+}
+.dateinput20,
+.scheduletable9,
+.timeinput9 {
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.dateinput20 {
+  position: absolute;
+  top: 557px;
+  left: 982px;
+  background-color: var(--color-gainsboro-100);
+  width: 496px;
+  height: 92px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mid) var(--padding-13xl) var(--padding-mid)
+    var(--padding-320xl);
+}
+.scheduletable9 {
+  width: 1550px;
+  position: relative;
+  border: 1px solid var(--color-black);
+  height: 689px;
+  flex-shrink: 0;
+  font-size: var(--font-size-22xl);
+}
+.sheduletable9 {
+  position: absolute;
+  top: 1580px;
+  left: 184px;
+  width: 1547px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-60xl);
+  font-size: var(--font-size-51xl);
+  color: var(--color-black);
+  font-family: var(--font-inika);
+}
+.tabletennis4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 3800px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-26xl);
+  color: var(--color-white);
+  font-family: var(--font-arima-madurai);
+}
+.bookingbutton1{
+  position: absolute;
+  left: 754px;
+  top: 1118px;
+
+}

@@ -1,0 +1,580 @@
+
+.shadow,
+.topicbackimg {
+  position: absolute;
+  top: 0;
+  border-radius: var(--br-41xl);
+  width: 1698px;
+  height: 504px;
+}
+.topicbackimg {
+  left: calc(50% - 849px);
+  object-fit: cover;
+}
+.shadow {
+  left: 0;
+  background: linear-gradient(89.86deg, #fff, rgba(248, 31, 31, 0) 63.54%);
+}
+
+
+.topicbooking {
+  position: absolute;
+  top: 78px;
+  left: calc(50% - 765px);
+  font-size: 128px;
+  font-weight: 900;
+}
+
+
+.bookdiscription {
+  margin: 0;
+}
+.span {
+  font-size: var(--font-size-14xl);
+}
+
+
+.topicbooking1 {
+  position: absolute;
+  top: 253px;
+  left: calc(50% - 754px);
+  font-weight: 900;
+  font-size: var(--font-size-13xl);
+}
+
+
+.TopButtonStyle {
+  position: relative;
+  font-weight: 900;
+}
+
+
+.indoorbookingbutton,
+.outdoorbookingbutton,
+.quipmentbookingbutton {
+  position: absolute;
+  top: 403px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-red-200);
+  box-shadow: 6px 12px 9px rgba(134, 31, 31, 0.138);
+  height: 72px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+
+.quipmentbookingbutton {
+  left: 95px;
+  width: 404px;
+  padding: var(--padding-3xs) var(--padding-3xs) 0;
+}
+
+
+.outdoorbookingbutton {
+  left: calc(50% - 298px);
+  width: 486px;
+  padding: var(--padding-3xs) var(--padding-3xs) 0;
+}
+.indoorbookingbutton {
+  left: 1183px;
+  width: 453px;
+  padding: var(--padding-3xs) 24px 0 var(--padding-3xs);
+}
+
+.bookingTopBackground1,
+.bookingTopBackground2 {
+  position: absolute;
+  width: 1800px;
+  height: 534px;
+}
+
+.bookingTopBackground1 {
+  top: 307px;
+  left: 110px;
+  border-radius: var(--br-41xl);
+  font-size: var(--font-size-14xl);
+  font-family: var(--font-arima-madurai);
+}
+
+.bookingheader {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1917px;
+  height: 5036px;
+  overflow: hidden;
+}
+.SportFontStyle {
+  position: relative;
+  font-weight: 900;
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.25);
+}
+.equipmenttopic {
+  position: absolute;
+  top: 66px;
+  left: 0;
+  background: linear-gradient(180deg, #f6b1b1, rgba(179, 177, 246, 0.89));
+  box-shadow: 0 5px 35px rgba(196, 58, 58, 0.25);
+  width: 1698px;
+  height: 146px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+}
+.select-equipment-by {
+  position: absolute;
+  top: 290px;
+  left: 150px;
+  font-size: var(--font-size-16xl);
+  font-family: var(--font-arvo);
+  display: inline-block;
+  width: 917px;
+  height: 60px;
+}
+
+.weightliftingimg-icon {
+  width: 225px;
+  position: absolute;
+  margin: 0 !important;
+  top: 4px;
+  left: 80px;
+  height: 228px;
+  object-fit: cover;
+  z-index: 0;
+}
+
+.swimmingimg-icon {
+  width: 284px;
+  position: absolute;
+  margin: 0 !important;
+  top: 44px;
+  left: 44px;
+  height: 158px;
+  object-fit: cover;
+  z-index: 0;
+}
+
+.trackandfieldimg-icon {
+  width: 282px;
+  position: absolute;
+  margin: 0 !important;
+  top: 32px;
+  left: 45px;
+  height: 191px;
+  object-fit: cover;
+  z-index: 0;
+}
+
+.wrestlingimg-icon {
+  width: 308px;
+  position: absolute;
+  margin: 0 !important;
+  top: 22px;
+  left: 16px;
+  height: 218px;
+  object-fit: cover;
+  z-index: 0;
+}
+
+.kickboxingimg-icon {
+  width: 254px;
+  position: absolute;
+  margin: 0 !important;
+  top: 28px;
+  left: 64px;
+  height: 204px;
+  object-fit: cover;
+  z-index: 0;
+}
+
+.taekwondoimg-icon {
+  width: 245px;
+  position: absolute;
+  margin: 0 !important;
+  top: 16px;
+  left: 63px;
+  height: 218px;
+  object-fit: cover;
+  z-index: 0;
+}
+
+
+.volleyballimg-icon {
+  width: 293px;
+  position: absolute;
+  margin: 0 !important;
+  top: 11px;
+  left: 39px;
+  height: 232px;
+  object-fit: cover;
+  z-index: 0;
+}
+
+.rugbyimg-icon {
+  position: absolute;
+  width: 231px;
+  margin: 0 !important;
+  top: 0;
+  left: 70px;
+  height: 242px;
+  object-fit: cover;
+  z-index: 0;
+}
+
+
+
+.netballimg-icon {
+  width: 226px;
+  position: absolute;
+  margin: 0 !important;
+  top: 27px;
+  left: 73px;
+  border-radius: var(--br-97xl-5);
+  height: 222px;
+  object-fit: cover;
+  z-index: 0;
+}
+
+
+.karateimg-icon {
+  position:absolute;
+  width: 274px;
+  margin: 0 !important;
+  left: 49px;
+  height: 247px;
+  object-fit: cover;
+  z-index: 0;
+}
+
+.tabletennisimg-icon {
+  width: 250px;
+  position: absolute;
+  margin: 0 !important;
+  top: 14px;
+  left: 61px;
+  height: 222px;
+  object-fit: cover;
+  z-index: 0;
+}
+
+
+.elle1 {
+  width: 371px;
+  position: absolute;
+  margin: 0 !important;
+  top: 248px;
+  left: 0;
+  font-size: var(--font-size-31xl);
+  display: inline-block;
+  font-family: var(--font-inria-serif);
+  color: var(--color-black);
+  text-align: center;
+  z-index: 1;
+}
+
+.footballtimg-icon {
+  position: absolute;
+  width: 200px;
+  margin: 0 !important;
+  left: 86px;
+  height: 230px;
+  object-fit: cover;
+  z-index: 0;
+}
+
+.hockeyimg-icon {
+  width: 254px;
+  position: absolute;
+  margin: 0 !important;
+  top: 20px;
+  left: 59px;
+  height: 216px;
+  object-fit: cover;
+  z-index: 0;
+}
+
+.carromimg-icon {
+  width: 306px;
+  position: absolute;
+  margin: 0 !important;
+  top: 27px;
+  left: 32px;
+  height: 201px;
+  object-fit: cover;
+  z-index: 0;
+}
+
+.chessimg-icon {
+  width: 290px;
+  position: absolute;
+  margin: 0 !important;
+  top: 30px;
+  left: 58px;
+  height: 213px;
+  object-fit: cover;
+  z-index: 0;
+}
+
+.cricketimg-icon {
+  position: absolute;
+  width: 232px;
+  margin: 0 !important;
+  top: 13px;
+  left: 70px;
+  height: 229px;
+  object-fit: cover;
+  z-index: 0;
+}
+
+.batmintonimg-icon {
+  position: absolute;
+  width: 294px;
+  top: 22px;
+  left: 38px;
+  height: 205px;
+  object-fit: cover;
+  z-index: 0;
+}
+
+.baseballimg-icon {
+  position: absolute;
+  width: 225px;
+  top: 22px;
+  left: 64px;
+  height: 216px;
+  object-fit: cover;
+  z-index: 0;
+}
+.basketballimg-icon {
+  width: 194px;
+  position: absolute;
+  margin: 0 !important;
+  top: 20px;
+  left: 89px;
+  height: 216px;
+  object-fit: cover;
+  z-index: 0;
+}
+
+
+.batminton,
+.carrom,
+.elle,
+.basketball,
+.tennis,
+.wrestling,
+.weightlifting
+{
+  left:0px;
+}
+
+.baseball,
+.chess,
+.football,
+.karate,
+.kickboxing,
+.swimming,
+.volleyball
+{
+  left: 466px;
+}
+
+.basketball,
+.cricket1,
+.hockey,
+.tabletennis,
+.hockey,
+.tabletennis,
+.rugby,
+.taekwondo,
+.trackandfield
+{
+  left: 952px;
+}
+
+.baseball,
+.batminton,
+.basketball,
+.carrom,
+.cricket1,
+.chess,
+.elle,
+.football,
+.hockey,
+.basketball,
+.karate,
+.tabletennis,
+.tennis,
+.volleyball,
+.rugby,
+.wrestling,
+.kickboxing,
+.taekwondo,
+.swimming,
+.weightlifting,
+.trackandfield
+{
+  cursor: pointer;
+  top: 7px;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  border-radius: 20px;
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 373px;
+  height: 311px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+
+.row1,
+.row2,
+.row3,
+.row4,
+.row5,
+.row6,
+.row7
+{
+  position: absolute;
+}
+.row1 {
+ 
+  top: 445px;
+  left: 191px;
+  width: 1349px;
+  height: 358px;
+  overflow: hidden;
+}
+.row2 {
+  
+  top: 834px;
+  left: 188px;
+  width: 1352px;
+  height: 374px;
+  overflow: hidden;
+}
+.row3 {
+  top: 1262px;
+  left: 188px;
+  width: 1352px;
+  height: 350px;
+  overflow: hidden;
+}
+.row4 {
+  top: 1667px;
+  left: 187px;
+  width: 1353px;
+  height: 353px;
+  overflow: hidden;
+}
+.row5 {
+  top: 2086px;
+  left: 188px;
+  width: 1352px;
+  height: 341px;
+  overflow: hidden;
+}
+.row6 {
+  top: 2491px;
+  left: 188px;
+  width: 1352px;
+  height: 342px;
+  overflow: hidden;
+}
+.row7 {
+  position: absolute;
+  top: 2897px;
+  left: 188px;
+  width: 1352px;
+  height: 343px;
+  overflow: hidden;
+}
+.sportfont {
+  position: absolute;
+  width: 330px;
+  top: 245px;
+  left: 22px;
+  font-size: var(--font-size-31xl);
+  display: inline-block;
+  font-family: var(--font-inria-serif);
+  color: var(--color-black);
+  text-align: center;
+  z-index: 1;
+}
+.sports{
+  background-color: rgba(95, 182, 198, 0.282);
+  overflow: hidden;
+}
+
+
+
+
+
+
+
+.bookingTopBackground2 {
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+
+.faculty-of-physical4 {
+  position: absolute;
+  top: 4453px;
+  left: calc(50% - 373.5px);
+}
+
+
+.gototopicon1 {
+  width: 54px;
+  height: 55px;
+  object-fit: cover;
+}
+.gototop3,
+.gototopicon1 {
+  position: relative;
+}
+.gototop2 {
+  position: absolute;
+  top: 3379px;
+  left: 1573px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  cursor: pointer;
+  font-size: var(--font-size-6xl);
+}
+
+.sports1 {
+  position: absolute;
+  top: 908px;
+  left: calc(50% - 848.5px);
+  border-radius: 70px;
+  box-shadow: 0 0 30px 16px rgba(0, 0, 0, 0.25);
+  width: 1698px;
+  height: 3490px;
+  font-size: var(--font-size-56xl);
+  font-family: var(--font-arima-madurai);
+}
+.sports {
+  width: 100%;
+  position: relative;
+  height: 5036px;
+  text-align: left;
+  font-size: var(--font-size-4xl);
+  color: var(--color-black);
+  font-family: var(--font-inder);
+}

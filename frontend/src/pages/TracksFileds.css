@@ -1,0 +1,271 @@
+.locker21back-icon {
+  position: absolute;
+  top: 260px;
+  left: 0;
+  width: 1917px;
+  height: 879px;
+  object-fit: cover;
+}
+.tracks-and-fileds {
+  position: relative;
+  font-weight: 900;
+  text-shadow: 4px 0 0#000, 0 4px 0#000, -4px 0 0#000, 0-4px 0#000;
+}
+.tracktopic {
+  position: absolute;
+  top: 322px;
+  left: calc(50% - 321.5px);
+  border-radius: var(--br-lgi);
+  background-color: var(--color-dimgray-600);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-6xl) 0;
+  font-size: var(--font-size-46xl);
+}
+.athletic-track,
+.locker-21 {
+  position: absolute;
+  font-weight: 900;
+  text-shadow: 2px 0 0#000, 0 2px 0#000, -2px 0 0#000, 0-2px 0#000;
+}
+.locker-21 {
+  top: 274px;
+  left: 23px;
+  font-size: var(--font-size-26xl);
+}
+.athletic-track {
+  top: 502px;
+  left: calc(50% - 159.5px);
+  font-size: var(--font-size-31xl);
+}
+.data-not-available34 {
+  position: relative;
+  font-weight: 900;
+}
+.courttimeslots34 {
+  position: absolute;
+  top: 648px;
+  left: calc(50% - 738.5px);
+  background-color: rgba(255, 255, 255, 0.07);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 1477px;
+  height: 380px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+}
+.tracksandfiledsdiscription1 {
+  position: absolute;
+  top: 1364px;
+  left: calc(50% - 786.5px);
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  font-family: var(--font-inria-serif);
+  color: var(--color-black);
+  text-align: center;
+  width: 1582px;
+  height: 150px;
+}
+.competition-preparation-engag {
+  margin: 0;
+}
+.tracksandfiledsdiscription2 {
+  position: absolute;
+  top: 2556px;
+  left: calc(50% - 768.5px);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: justify;
+  display: inline-block;
+  width: 1537px;
+  height: 628px;
+}
+.schedule19 {
+  position: relative;
+}
+.dates18,
+.times18 {
+  position: absolute;
+  top: 22px;
+  left: 152px;
+}
+.times18 {
+  left: 613px;
+}
+.border-icon90,
+.event-description18 {
+  position: absolute;
+  top: 22px;
+  left: 1095px;
+}
+.border-icon90 {
+  left: 428px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 638px;
+}
+.border-icon91,
+.border-icon92,
+.border-icon93 {
+  position: absolute;
+  top: 102px;
+  left: 22px;
+  max-height: 100%;
+  width: 387.5px;
+}
+.border-icon92,
+.border-icon93 {
+  left: 460px;
+}
+.border-icon93 {
+  left: 958px;
+  width: 551px;
+}
+.border-icon94 {
+  position: absolute;
+  top: 22px;
+  left: 918.9px;
+  width: 2.1px;
+  height: 638px;
+  object-fit: contain;
+}
+.am-4oo36,
+.am-4oo37,
+.monday18,
+.tuesday18 {
+  position: absolute;
+  top: 179px;
+  left: 127px;
+  display: inline-block;
+  width: 177px;
+  height: 53px;
+}
+.am-4oo36,
+.am-4oo37,
+.tuesday18 {
+  left: 501px;
+  width: 371px;
+}
+.am-4oo37,
+.tuesday18 {
+  top: 288px;
+}
+.tuesday18 {
+  left: 127px;
+  width: 177px;
+}
+.practices36,
+.practices37 {
+  position: absolute;
+  top: 179px;
+  left: 1149px;
+}
+.practices37 {
+  top: 288px;
+}
+.updatebutton {
+  cursor: pointer;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-inika);
+  font-size: var(--font-size-xl);
+  background-color: var(--color-darkgray-100);
+  border-radius: var(--br-11xl);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-lg);
+  color: var(--color-black);
+}
+.dateinput37,
+.timeinput18 {
+  position: absolute;
+  top: 557px;
+  background-color: var(--color-gainsboro-100);
+  height: 92px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.dateinput37 {
+  left: 46px;
+  width: 343px;
+  overflow: hidden;
+  padding: var(--padding-mid) var(--padding-13xl) var(--padding-mid)
+    var(--padding-193xl);
+  box-sizing: border-box;
+}
+.timeinput18 {
+  left: 501px;
+  width: 371px;
+  padding: var(--padding-mid) var(--padding-13xl) var(--padding-mid)
+    var(--padding-210xl);
+}
+.dateinput38,
+.scheduletable18,
+.timeinput18 {
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.dateinput38 {
+  position: absolute;
+  top: 557px;
+  left: 982px;
+  background-color: var(--color-gainsboro-100);
+  width: 496px;
+  height: 92px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mid) var(--padding-13xl) var(--padding-mid)
+    var(--padding-320xl);
+}
+.scheduletable18 {
+  width: 1550px;
+  position: relative;
+  border: 1px solid var(--color-black);
+  height: 689px;
+  flex-shrink: 0;
+  font-size: var(--font-size-22xl);
+}
+.sheduletable18 {
+  position: absolute;
+  top: 1580px;
+  left: 184px;
+  width: 1547px;
+  height: 829px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-60xl);
+  font-size: var(--font-size-51xl);
+  color: var(--color-black);
+  font-family: var(--font-inika);
+}
+.tracksfileds {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 3800px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  font-family: var(--font-arima-madurai);
+}
+.bookingbutton1{
+  position: absolute;
+  left: 754px;
+  top: 1118px;
+
+}

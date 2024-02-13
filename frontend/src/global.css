@@ -1,0 +1,168 @@
+@import url("https://fonts.googleapis.com/css2?family=Inria+Serif:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inria+Sans:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Da:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Arima+Madurai:wght@400;500;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kadwa:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inder:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Odor+Mean+Chey:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Amaranth:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Arvo:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Asap+Condensed:wght@400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Arimo:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Aref+Ruqaa+Ink:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inika:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Jura:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kufam:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Aclonica:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Aref+Ruqaa:wght@400&display=swap");
+@font-face {
+  font-family: "Arial Rounded MT Bold";
+  src: url("/public/Arial Rounded MT Bold Regular.ttf");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Javanese Text";
+  src: url("/public/javatext.ttf");
+  font-weight: 400;
+}
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-arial: Arial;
+  --font-arima-madurai: "Arima Madurai";
+  --font-inria-serif: "Inria Serif";
+  --font-baloo-da: "Baloo Da";
+  --font-inria-sans: "Inria Sans";
+  --font-inknut-antiqua: "Inknut Antiqua";
+  --font-inder: Inder;
+  --font-kadwa: Kadwa;
+  --font-odor-mean-chey: "Odor Mean Chey";
+  --font-arial-rounded-mt-bold: "Arial Rounded MT Bold";
+  --font-inter: Inter;
+  --font-amaranth: Amaranth;
+  --font-arvo: Arvo;
+  --font-asap-condensed: "Asap Condensed";
+  --font-aref-ruqaa-ink: "Aref Ruqaa Ink";
+  --font-arimo: Arimo;
+  --font-inika: Inika;
+  --font-jetbrains-mono: "JetBrains Mono";
+  --font-jura: Jura;
+  --font-javanese-text: "Javanese Text";
+  --font-aref-ruqaa: "Aref Ruqaa";
+  --font-aclonica: Aclonica;
+  --font-kufam: Kufam;
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-41xl: 60px;
+  --font-size-31xl: 50px;
+  --font-size-6xl: 25px;
+  --font-size-51xl: 70px;
+  --font-size-11xl: 30px;
+  --font-size-lg: 18px;
+  --font-size-16xl: 35px;
+  --font-size-3xl: 22px;
+  --font-size-5xl: 24px;
+  --font-size-base: 16px;
+  --font-size-45xl: 64px;
+  --font-size-15xl: 34px;
+  --font-size-13xl: 32px;
+  --font-size-lgi: 19px;
+  --font-size-36xl: 55px;
+  --font-size-27xl: 46px;
+  --font-size-9xl: 28px;
+  --font-size-14xl: 33px;
+  --font-size-4xl: 23px;
+  --font-size-7xl-3: 26.3px;
+  --font-size-15xl-1: 34.1px;
+  --font-size-56xl: 75px;
+  --font-size-43xl: 62px;
+  --font-size-21xl: 40px;
+  --font-size-mid-9: 17.9px;
+  --font-size-mid-1: 17.1px;
+  --font-size-xl-5: 20.5px;
+  --font-size-42xl-5: 61.5px;
+  --font-size-12xl: 31px;
+  --font-size-46xl: 65px;
+  --font-size-106xl: 125px;
+  --font-size-26xl: 45px;
+  --font-size-22xl: 41px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gainsboro-100: #d9d9d9;
+  --color-gainsboro-200: rgba(217, 217, 217, 0.6);
+  --color-gray-100: #949494;
+  --color-gray-200: #481313;
+  --color-gray-300: #141111;
+  --color-gray-400: rgba(255, 255, 255, 0);
+  --color-gray-500: rgba(0, 0, 0, 0.6);
+  --color-silver-100: #bdbdbd;
+  --color-silver-200: #a9c1bb;
+  --color-dimgray-100: #747474;
+  --color-dimgray-200: #805b5b;
+  --color-dimgray-300: #646464;
+  --color-dimgray-400: #635c5c;
+  --color-dimgray-500: #555;
+  --color-dimgray-600: rgba(106, 97, 97, 0.28);
+  --color-powderblue: #b8e3e9;
+  --color-darkgray-100: #ababab;
+  --color-dodgerblue: rgba(72, 146, 255, 0.67);
+  --color-red-100: #ff0000;
+  --color-red-200: rgba(240, 7, 7, 0.77);
+  --color-steelblue-100: #338fb7;
+  --color-steelblue-200: #208fbf;
+  --color-goldenrod: #dd9c0f;
+  --color-khaki: rgba(224, 195, 93, 0.55);
+  --color-firebrick-100: #d83e3e;
+  --color-firebrick-200: #ca3838;
+  --color-firebrick-300: #b81e1e;
+  --color-darkorchid: #852fae;
+
+  /* Gaps */
+  --gap-3xs: 10px;
+  --gap-5xs: 8px;
+  --gap-28xl: 47px;
+  --gap-60xl: 79px;
+
+  /* Paddings */
+  --padding-3xl: 22px;
+  --padding-3xs: 10px;
+  --padding-5xs: 8px;
+  --padding-25xl: 44px;
+  --padding-mid: 17px;
+  --padding-13xl: 32px;
+  --padding-320xl: 339px;
+  --padding-lg: 18px;
+  --padding-210xl: 229px;
+  --padding-193xl: 212px;
+  --padding-xs: 12px;
+  --padding-6xs: 7px;
+  --padding-6xl: 25px;
+  --padding-14xl: 33px;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+  --br-31xl: 50px;
+  --br-xl: 20px;
+  --br-30xl: 49px;
+  --br-11xl: 30px;
+  --br-22xl: 41px;
+  --br-6xl: 25px;
+  --br-26xl: 45px;
+  --br-2xl: 21px;
+  --br-mini: 15px;
+  --br-97xl-5: 116.5px;
+  --br-41xl: 60px;
+  --br-6xs-8: 6.8px;
+  --br-97xl: 116px;
+  --br-lgi: 19px;
+}
